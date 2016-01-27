@@ -1,7 +1,0 @@
-Consider Matrices in the form 
-1.A = {(row1,col1,value1),(row1,col2,val2)....(rowi,colj,valij)}
-2.B = {(row1,col1,value1),(row1,col2,val2)....(rowi,colj,valij)}
-3.Map(A =>(ij,a[ij])) //Here Key = ij, value = a[ij] and values are stored to mapper
-4.Map(B =>(ij,b[ij])) //Here key =ij, value =b[ij] and values are stored in mapper
-5.C = reduceByKey(([aij],[bij])=>[aij]+[bij]) //stored values in mapper are reduced by key.
-6.C is the resultant matrix that has the sum of the corresponding A and B elements.
