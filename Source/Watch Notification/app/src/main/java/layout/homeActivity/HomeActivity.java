@@ -1,53 +1,33 @@
 package layout.homeActivity;
 
-import android.app.Fragment;
+import android.app.Notification;
 import android.content.Context;
 import android.content.Intent;
-import android.net.Uri;
-import android.os.AsyncTask;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
+import android.speech.RecognizerIntent;
 import android.support.v4.app.NotificationManagerCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.NotificationCompat;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.view.ViewGroup;
 import android.view.inputmethod.InputMethodManager;
 import android.webkit.WebView;
-import android.widget.EditText;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.google.android.gms.appindexing.Action;
-import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.common.api.GoogleApiClient;
 
-import org.apache.http.HttpEntity;
-import org.apache.http.HttpResponse;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.DefaultHttpClient;
-import org.apache.http.util.EntityUtils;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.w3c.dom.Text;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
+import java.util.List;
 
 import domain.raghu.myapplication.R;
 import domain.raghu.myapplication.Sample;
 import okhttp3.Call;
 import okhttp3.Callback;
-import okhttp3.Headers;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
@@ -59,7 +39,7 @@ public class HomeActivity extends AppCompatActivity {
     TextView outputTextView;
     Context mContext;
     WebView weatherInfo;
-
+    private static final int SPEECH_REQUEST_CODE = 0;
     /**
      * ATTENTION: This was auto-generated to implement the App Indexing API.
      * See https://g.co/AppIndexing/AndroidStudio for more information.
@@ -82,18 +62,19 @@ public class HomeActivity extends AppCompatActivity {
     }
 
     private void hideKeyboard(View editableView) {
-        InputMethodManager imm = (InputMethodManager)mContext
+        InputMethodManager imm = (InputMethodManager) mContext
                 .getSystemService(Context.INPUT_METHOD_SERVICE);
         imm.hideSoftInputFromWindow(editableView.getWindowToken(), 0);
     }
 
-    public void translateText(View v) {
-        TextView sourceTextView = (TextView) findViewById(R.id.txt_Email);
+    public void translateText(String message) {
+//        TextView sourceTextView = (TextView) findViewById(R.id.txt_Email);
+//
+//        sourceText = sourceTextView.getText().toString();
 
-        sourceText = sourceTextView.getText().toString();
         String getURL = "https://translate.yandex.net/api/v1.5/tr.json/translate?" +
                 "key=trnsl.1.1.20151023T145251Z.bf1ca7097253ff7e." +
-                "c0b0a88bea31ba51f72504cc0cc42cf891ed90d2&text=" + sourceText +"&" +
+                "c0b0a88bea31ba51f72504cc0cc42cf891ed90d2&text=" + message + "&" +
                 "lang=en-es&[format=plain]&[options=1]&[callback=set]";//The API service URL
         final String response1 = "";
         OkHttpClient client = new OkHttpClient();
@@ -112,7 +93,7 @@ public class HomeActivity extends AppCompatActivity {
 
                 @Override
                 public void onResponse(Call call, Response response) throws IOException {
-                   final JSONObject jsonResult;
+                    final JSONObject jsonResult;
                     final String result = response.body().string();
 
                     try {
@@ -125,13 +106,18 @@ public class HomeActivity extends AppCompatActivity {
                             public void run() {
                                 hideKeyboard(outputTextView);
                                 int notificationId = 100;
-                                NotificationCompat.Builder notificationBuilder = (NotificationCompat.Builder) new NotificationCompat.Builder(HomeActivity.this)
-                                        .setSmallIcon(R.drawable.notificationicon)
-                                        .setContentTitle("Converted text")
-                                        .setContentText(convertedText);
-                                NotificationManagerCompat notificationManagerCompat = NotificationManagerCompat.from(HomeActivity.this);
 
-                                notificationManagerCompat.notify(notificationId, notificationBuilder.build());
+                                NotificationCompat.WearableExtender wearableExtender =
+                                        new NotificationCompat.WearableExtender();
+                                Notification notif = new NotificationCompat.Builder(mContext)
+                                        .setContentTitle("Converted text")
+                                        .setContentText(convertedText)
+                                        .setSmallIcon(R.drawable.notificationicon)
+                                        .extend(wearableExtender)
+                                        .build();
+                                NotificationManagerCompat notificationManager =
+                                        NotificationManagerCompat.from(mContext);
+                                notificationManager.notify(notificationId, notif);
                                 outputTextView.setText(convertedText);
                             }
                         });
@@ -149,6 +135,28 @@ public class HomeActivity extends AppCompatActivity {
 
         }
 
+    }
+
+    public void recordAudio(View v) {
+        Intent intent = new Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH);
+        intent.putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL,
+                RecognizerIntent.LANGUAGE_MODEL_FREE_FORM);
+        startActivityForResult(intent, SPEECH_REQUEST_CODE);
+
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (requestCode == SPEECH_REQUEST_CODE && resultCode == RESULT_OK) {
+            List<String> results = data.getStringArrayListExtra(
+                    RecognizerIntent.EXTRA_RESULTS);
+            String spokenText = results.get(0);
+            sourceText = spokenText;
+            Log.d("Result", spokenText);
+            translateText(sourceText);
+            // Do something with spokenText
+        }
+        super.onActivityResult(requestCode, resultCode, data);
     }
 
 }
