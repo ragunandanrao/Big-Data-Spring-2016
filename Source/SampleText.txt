@@ -1,1 +1,0 @@
-This is just to add the source folder as it does not allow to add an empty folder. It will be removed once there is some code here.
