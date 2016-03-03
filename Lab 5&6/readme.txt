@@ -1,0 +1,1 @@
+This folder contains source code and documentation of tasks for Lab 5 and Lab 6. The couple of labs introduced the concepts of scoket programing to provide a medium of communication for the Android client and the Spark engine which can process intensive tasks. The machine learning library in Spark was also introduced in Lab 6.
