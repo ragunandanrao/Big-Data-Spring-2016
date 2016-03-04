@@ -1,0 +1,4063 @@
+x-rate-limit-reset:
+1457057866
+content-disposition:
+attachment; filename=json.json
+x-twitter-response-tags:
+BouncerCompliant
+strict-transport-security:
+max-age=631138519
+x-access-level:
+read-write-directmessages
+Content-Type:
+application/json;charset=utf-8
+
+{
+  "statuses":  [
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:02:17 +0000 2016",
+      "id": 705574052627406800,
+      "id_str": "705574052627406848",
+      "text": "@HillaryClinton can you say #indictment en Espanyol? #MakeAmericaGreatAgain #Trump2016 #TRUMP #ImWithHer #Hillary https://t.co/BIDz6C86LA",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 1339835893,
+      "in_reply_to_user_id_str": "1339835893",
+      "in_reply_to_screen_name": "HillaryClinton",
+      "user":  {
+        "id": 703329119849812000,
+        "id_str": "703329119849811968",
+        "name": "The Horse's Mouth",
+        "screen_name": "UrinalToast",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 18,
+        "friends_count": 38,
+        "listed_count": 2,
+        "created_at": "Fri Feb 26 21:21:44 +0000 2016",
+        "favourites_count": 7,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/703331187004153857/kpJn5oNO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/703331187004153857/kpJn5oNO_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 705569305103048700,
+      "quoted_status_id_str": "705569305103048704",
+      "quoted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 01:43:25 +0000 2016",
+        "id": 705569305103048700,
+        "id_str": "705569305103048704",
+        "text": "Ninguna persona que trabaje a tiempo completo debería criar a sus hijos en la pobreza.",
+        "source": "<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 1339835893,
+          "id_str": "1339835893",
+          "name": "Hillary Clinton",
+          "screen_name": "HillaryClinton",
+          "location": "New York, NY",
+          "description": "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H",
+          "url": "https://t.co/qqt83R8Fqb",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/qqt83R8Fqb",
+                  "expanded_url": "http://hrc.io/signup",
+                  "display_url": "hrc.io/signup",
+                  "indices":  [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 5567765,
+          "friends_count": 635,
+          "listed_count": 24269,
+          "created_at": "Tue Apr 09 18:04:35 +0000 2013",
+          "favourites_count": 1014,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 4509,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "0057B8",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/705242833637265408/I4RZo3K4_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/705242833637265408/I4RZo3K4_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339835893/1456099152",
+          "profile_link_color": "0057B8",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 335,
+        "favorite_count": 490,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "indictment",
+            "indices":  [
+              28,
+              39
+            ]
+          },
+           {
+            "text": "MakeAmericaGreatAgain",
+            "indices":  [
+              53,
+              75
+            ]
+          },
+           {
+            "text": "Trump2016",
+            "indices":  [
+              76,
+              86
+            ]
+          },
+           {
+            "text": "TRUMP",
+            "indices":  [
+              87,
+              93
+            ]
+          },
+           {
+            "text": "ImWithHer",
+            "indices":  [
+              94,
+              104
+            ]
+          },
+           {
+            "text": "Hillary",
+            "indices":  [
+              105,
+              113
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "HillaryClinton",
+            "name": "Hillary Clinton",
+            "id": 1339835893,
+            "id_str": "1339835893",
+            "indices":  [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/BIDz6C86LA",
+            "expanded_url": "https://twitter.com/hillaryclinton/status/705569305103048704",
+            "display_url": "twitter.com/hillaryclinton…",
+            "indices":  [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:02:05 +0000 2016",
+      "id": 705574000961855500,
+      "id_str": "705574000961855488",
+      "text": "RT @andersonDrLJA: MUST WATCH VIDEO FOR ALL AMERICANS": #HILLARY A Disgrace in Black History HER #WHOLE LIFE! https://t.co/ZOcYYoBbLA https…",
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 479198786,
+        "id_str": "479198786",
+        "name": "Lichen Craig",
+        "screen_name": "LichenCraig",
+        "location": "Colorado",
+        "description": "Novelist/freelance editor; Producer and Host at Fireside With Lichen Craig. Kinda funny. Lover of big dogs. Friend of GLBT. Books at Amazon and elsewhere..",
+        "url": "http://t.co/3HR4lbhnDa",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/3HR4lbhnDa",
+                "expanded_url": "http://lichencraig.com",
+                "display_url": "lichencraig.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 1872,
+        "friends_count": 1978,
+        "listed_count": 105,
+        "created_at": "Tue Jan 31 03:42:35 +0000 2012",
+        "favourites_count": 3680,
+        "utc_offset": -25200,
+        "time_zone": "Mountain Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 53176,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665748022685339648/mlVV3mm7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665748022685339648/mlVV3mm7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/479198786/1439922972",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:00:07 +0000 2016",
+        "id": 705573508466610200,
+        "id_str": "705573508466610176",
+        "text": "MUST WATCH VIDEO FOR ALL AMERICANS": #HILLARY A Disgrace in Black History HER #WHOLE LIFE! https://t.co/ZOcYYoBbLA https://t.co/adiwha54K2",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 2316246829,
+          "id_str": "2316246829",
+          "name": "Dr. Lynn J Anderson",
+          "screen_name": "andersonDrLJA",
+          "location": "Please Visit & Like",
+          "description": "Family Man; Christian (LDS); Retired Colonel USArmy; 5 GGFather killed in Revolutionary War; Father Navy WWII; Brother Marine VietNam: Want USA Back As Once Was",
+          "url": "https://t.co/JrjrTH8MSq",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/JrjrTH8MSq",
+                  "expanded_url": "https://www.facebook.com/StandUpNowPatriots",
+                  "display_url": "facebook.com/StandUpNowPatr…",
+                  "indices":  [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 77887,
+          "friends_count": 72035,
+          "listed_count": 671,
+          "created_at": "Wed Jan 29 00:15:12 +0000 2014",
+          "favourites_count": 21877,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 45075,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/652243528748150784/CT-zyFSu_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/652243528748150784/CT-zyFSu_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2316246829/1401393503",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 6,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "HILLARY",
+              "indices":  [
+                37,
+                45
+              ]
+            },
+             {
+              "text": "WHOLE",
+              "indices":  [
+                78,
+                84
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/ZOcYYoBbLA",
+              "expanded_url": "https://www.youtube.com/watch?v=5uWu0nSsg7w&feature=youtu.be",
+              "display_url": "youtube.com/watch?v=5uWu0n…",
+              "indices":  [
+                91,
+                114
+              ]
+            }
+          ],
+          "media":  [
+             {
+              "id": 705573485645443100,
+              "id_str": "705573485645443072",
+              "indices":  [
+                115,
+                138
+              ],
+              "media_url": "http://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+              "url": "https://t.co/adiwha54K2",
+              "display_url": "pic.twitter.com/adiwha54K2",
+              "expanded_url": "http://twitter.com/andersonDrLJA/status/705573508466610176/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 357,
+                  "h": 420,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "large":  {
+                  "w": 357,
+                  "h": 420,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "HILLARY",
+            "indices":  [
+              56,
+              64
+            ]
+          },
+           {
+            "text": "WHOLE",
+            "indices":  [
+              97,
+              103
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "andersonDrLJA",
+            "name": "Dr. Lynn J Anderson",
+            "id": 2316246829,
+            "id_str": "2316246829",
+            "indices":  [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/ZOcYYoBbLA",
+            "expanded_url": "https://www.youtube.com/watch?v=5uWu0nSsg7w&feature=youtu.be",
+            "display_url": "youtube.com/watch?v=5uWu0n…",
+            "indices":  [
+              110,
+              133
+            ]
+          }
+        ],
+        "media":  [
+           {
+            "id": 705573485645443100,
+            "id_str": "705573485645443072",
+            "indices":  [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+            "url": "https://t.co/adiwha54K2",
+            "display_url": "pic.twitter.com/adiwha54K2",
+            "expanded_url": "http://twitter.com/andersonDrLJA/status/705573508466610176/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "medium":  {
+                "w": 357,
+                "h": 420,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small":  {
+                "w": 340,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large":  {
+                "w": 357,
+                "h": 420,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 705573508466610200,
+            "source_status_id_str": "705573508466610176",
+            "source_user_id": 2316246829,
+            "source_user_id_str": "2316246829"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:01:57 +0000 2016",
+      "id": 705573969131343900,
+      "id_str": "705573969131343872",
+      "text": "RT @JohnFromCranber: #Hillary: Disturbing Mix of Entitlement Mentality, an Ends Justify Means Mindset, + Sociopathy https://t.co/1oUl5GmlOY…",
+      "source": "<a href="http://twitter.com/#!/download/ipad" rel="nofollow">Twitter for iPad</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 373662968,
+        "id_str": "373662968",
+        "name": "CS",
+        "screen_name": "c_smith52",
+        "location": "Cocoa, Fl.",
+        "description": "Constitutional Conservative, Freedom Loving American",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 423,
+        "friends_count": 710,
+        "listed_count": 7,
+        "created_at": "Thu Sep 15 00:33:02 +0000 2011",
+        "favourites_count": 977,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4133,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/609364189774266369/A5pEF9vB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/609364189774266369/A5pEF9vB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/373662968/1382468448",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 01:05:54 +0000 2016",
+        "id": 705559863762554900,
+        "id_str": "705559863762554881",
+        "text": "#Hillary: Disturbing Mix of Entitlement Mentality, an Ends Justify Means Mindset, + Sociopathy https://t.co/1oUl5GmlOY @JohnKStahlUSA #tcot",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 1065869268,
+          "id_str": "1065869268",
+          "name": "John Betts",
+          "screen_name": "JohnFromCranber",
+          "location": "",
+          "description": "Retired Chief Financial Officer,\nPatriot, Conservative Constitutionalist, 2nd Amend Supporter, Penn State Grad - Political Science, Fitness Enthusiast",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 103982,
+          "friends_count": 106406,
+          "listed_count": 766,
+          "created_at": "Sun Jan 06 14:43:00 +0000 2013",
+          "favourites_count": 556,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 115049,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/3273171017/5fa5a2a5d9de3217a7610ca53c134814_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/3273171017/5fa5a2a5d9de3217a7610ca53c134814_normal.jpeg",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place":  {
+          "id": "dd9c503d6c35364b",
+          "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+          "place_type": "admin",
+          "name": "Pennsylvania",
+          "full_name": "Pennsylvania, USA",
+          "country_code": "US",
+          "country": "United States",
+          "contained_within":  [],
+          "bounding_box":  {
+            "type": "Polygon",
+            "coordinates":  [
+               [
+                 [
+                  -80.519851,
+                  39.719801
+                ],
+                 [
+                  -74.689517,
+                  39.719801
+                ],
+                 [
+                  -74.689517,
+                  42.516072
+                ],
+                 [
+                  -80.519851,
+                  42.516072
+                ]
+              ]
+            ]
+          },
+          "attributes":  {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 5,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "Hillary",
+              "indices":  [
+                0,
+                8
+              ]
+            },
+             {
+              "text": "tcot",
+              "indices":  [
+                134,
+                139
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "JohnKStahlUSA",
+              "name": "John K Stahl",
+              "id": 4236806414,
+              "id_str": "4236806414",
+              "indices":  [
+                119,
+                133
+              ]
+            }
+          ],
+          "urls":  [],
+          "media":  [
+             {
+              "id": 694542354653401100,
+              "id_str": "694542354653401088",
+              "indices":  [
+                95,
+                118
+              ],
+              "media_url": "http://pbs.twimg.com/media/CaOCl3qUUAAcV4m.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CaOCl3qUUAAcV4m.jpg",
+              "url": "https://t.co/1oUl5GmlOY",
+              "display_url": "pic.twitter.com/1oUl5GmlOY",
+              "expanded_url": "http://twitter.com/JohnKStahlUSA/status/694542359359414272/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "large":  {
+                  "w": 982,
+                  "h": 552,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium":  {
+                  "w": 600,
+                  "h": 337,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 191,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 694542359359414300,
+              "source_status_id_str": "694542359359414272",
+              "source_user_id": 4236806414,
+              "source_user_id_str": "4236806414"
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "Hillary",
+            "indices":  [
+              21,
+              29
+            ]
+          },
+           {
+            "text": "tcot",
+            "indices":  [
+              139,
+              140
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "JohnFromCranber",
+            "name": "John Betts",
+            "id": 1065869268,
+            "id_str": "1065869268",
+            "indices":  [
+              3,
+              19
+            ]
+          },
+           {
+            "screen_name": "JohnKStahlUSA",
+            "name": "John K Stahl",
+            "id": 4236806414,
+            "id_str": "4236806414",
+            "indices":  [
+              139,
+              140
+            ]
+          }
+        ],
+        "urls":  [],
+        "media":  [
+           {
+            "id": 694542354653401100,
+            "id_str": "694542354653401088",
+            "indices":  [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/CaOCl3qUUAAcV4m.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CaOCl3qUUAAcV4m.jpg",
+            "url": "https://t.co/1oUl5GmlOY",
+            "display_url": "pic.twitter.com/1oUl5GmlOY",
+            "expanded_url": "http://twitter.com/JohnKStahlUSA/status/694542359359414272/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "large":  {
+                "w": 982,
+                "h": 552,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium":  {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "small":  {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 694542359359414300,
+            "source_status_id_str": "694542359359414272",
+            "source_user_id": 4236806414,
+            "source_user_id_str": "4236806414"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:01:54 +0000 2016",
+      "id": 705573953826381800,
+      "id_str": "705573953826381824",
+      "text": "RT @tracieeeeee: Because he's a sorry LOW DOWN CRIMINAL he's on the same level as #Hillary @inyourface34 @EnragedNY @MittRomney",
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 331983140,
+        "id_str": "331983140",
+        "name": "Steve Klaver",
+        "screen_name": "BooBreeze",
+        "location": "Lexington North Carolina",
+        "description": "#Conservative #IStandWithIsrael #TCOT.I have no time for #Liberal garbage or #RINOS #WakeUpAmerica #ImpeachIslamObama Followed by #DineshDSouza",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 5452,
+        "friends_count": 5197,
+        "listed_count": 89,
+        "created_at": "Sat Jul 09 01:26:11 +0000 2011",
+        "favourites_count": 2697,
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 51693,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670056792169295872/4iItzuzt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670056792169295872/4iItzuzt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/331983140/1451360138",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Thu Mar 03 16:33:48 +0000 2016",
+        "id": 705430989640695800,
+        "id_str": "705430989640695808",
+        "text": "Because he's a sorry LOW DOWN CRIMINAL he's on the same level as #Hillary @inyourface34 @EnragedNY @MittRomney",
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 705429594699145200,
+        "in_reply_to_status_id_str": "705429594699145216",
+        "in_reply_to_user_id": 4234566983,
+        "in_reply_to_user_id_str": "4234566983",
+        "in_reply_to_screen_name": "inyourface34",
+        "user":  {
+          "id": 1251812930,
+          "id_str": "1251812930",
+          "name": "HETEROSEXUAL WOMAN ™",
+          "screen_name": "tracieeeeee",
+          "location": "Mississippi, USA",
+          "description": "#CONSERVATIVE #SARCOIDOSIS #PATRIOT #PTSD #NRA #CONSTITUTION #Advocate #AUTISM #AnimalLover #Israel #Veterans #Military #TrumpTrain #Trump2016 #USA",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 49330,
+          "friends_count": 35645,
+          "listed_count": 532,
+          "created_at": "Fri Mar 08 14:01:50 +0000 2013",
+          "favourites_count": 252101,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 246596,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/605310478429122560/g06G69AN_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/605310478429122560/g06G69AN_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251812930/1451938668",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 5,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "Hillary",
+              "indices":  [
+                65,
+                73
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "inyourface34",
+              "name": "Chris",
+              "id": 4234566983,
+              "id_str": "4234566983",
+              "indices":  [
+                74,
+                87
+              ]
+            },
+             {
+              "screen_name": "EnragedNY",
+              "name": "EnragedNY",
+              "id": 203344437,
+              "id_str": "203344437",
+              "indices":  [
+                88,
+                98
+              ]
+            },
+             {
+              "screen_name": "MittRomney",
+              "name": "Mitt Romney",
+              "id": 50055701,
+              "id_str": "50055701",
+              "indices":  [
+                99,
+                110
+              ]
+            }
+          ],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "Hillary",
+            "indices":  [
+              82,
+              90
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "tracieeeeee",
+            "name": "HETEROSEXUAL WOMAN ™",
+            "id": 1251812930,
+            "id_str": "1251812930",
+            "indices":  [
+              3,
+              15
+            ]
+          },
+           {
+            "screen_name": "inyourface34",
+            "name": "Chris",
+            "id": 4234566983,
+            "id_str": "4234566983",
+            "indices":  [
+              91,
+              104
+            ]
+          },
+           {
+            "screen_name": "EnragedNY",
+            "name": "EnragedNY",
+            "id": 203344437,
+            "id_str": "203344437",
+            "indices":  [
+              105,
+              115
+            ]
+          },
+           {
+            "screen_name": "MittRomney",
+            "name": "Mitt Romney",
+            "id": 50055701,
+            "id_str": "50055701",
+            "indices":  [
+              116,
+              127
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:01:43 +0000 2016",
+      "id": 705573910901686300,
+      "id_str": "705573910901686272",
+      "text": "#HillaryClinton #Hillary #Hillary2016 https://t.co/zQhQaFxXwb",
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 250832467,
+        "id_str": "250832467",
+        "name": "Jane Fielding",
+        "screen_name": "readnthink90",
+        "location": "",
+        "description": "“Political tags .. are never basic criteria. The human race divides into those who want people to be controlled and those who have no such desire. R Heinlein",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 2875,
+        "friends_count": 3188,
+        "listed_count": 67,
+        "created_at": "Fri Feb 11 22:16:45 +0000 2011",
+        "favourites_count": 182,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17030,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/610773467/dh45i7u6m2r07sq2m1e5.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/610773467/dh45i7u6m2r07sq2m1e5.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/563184708893167617/XxHAQVti_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/563184708893167617/XxHAQVti_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/250832467/1423108600",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 460082940072849400,
+      "quoted_status_id_str": "460082940072849408",
+      "quoted_status":  {
+        "metadata":  {
+          "iso_language_code": "und",
+          "result_type": "recent"
+        },
+        "created_at": "Sat Apr 26 15:48:15 +0000 2014",
+        "id": 460082940072849400,
+        "id_str": "460082940072849408",
+        "text": "C.K. gets it right again. This is our next C.I. C.? Please! Enlist in the U.S. FREEDOM ARMY at http://t.co/zcp1ge3YMA http://t.co/UKQDzQwAYF",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 2161491157,
+          "id_str": "2161491157",
+          "name": "Sally Hawke",
+          "screen_name": "sadiehawke1108",
+          "location": "Near Dogpatch",
+          "description": "Mad as hell about living in a socialist country. We need to get our #constitution back. Lover becoming a fighter.",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 7037,
+          "friends_count": 7075,
+          "listed_count": 52,
+          "created_at": "Mon Oct 28 19:35:11 +0000 2013",
+          "favourites_count": 372,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 571,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/378800000661519392/d87e220dfcd7db5ae02225b39752ea30_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000661519392/d87e220dfcd7db5ae02225b39752ea30_normal.jpeg",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1440,
+        "favorite_count": 535,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "http://t.co/zcp1ge3YMA",
+              "expanded_url": "http://USFREEDOMARMY.COM",
+              "display_url": "USFREEDOMARMY.COM",
+              "indices":  [
+                95,
+                117
+              ]
+            }
+          ],
+          "media":  [
+             {
+              "id": 460082940081238000,
+              "id_str": "460082940081238016",
+              "indices":  [
+                118,
+                140
+              ],
+              "media_url": "http://pbs.twimg.com/media/BmKK_xLCcAAvYgf.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/BmKK_xLCcAAvYgf.jpg",
+              "url": "http://t.co/UKQDzQwAYF",
+              "display_url": "pic.twitter.com/UKQDzQwAYF",
+              "expanded_url": "http://twitter.com/sadiehawke1108/status/460082940072849408/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 448,
+                  "h": 299,
+                  "resize": "fit"
+                },
+                "large":  {
+                  "w": 448,
+                  "h": 299,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 227,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "HillaryClinton",
+            "indices":  [
+              0,
+              15
+            ]
+          },
+           {
+            "text": "Hillary",
+            "indices":  [
+              16,
+              24
+            ]
+          },
+           {
+            "text": "Hillary2016",
+            "indices":  [
+              25,
+              37
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/zQhQaFxXwb",
+            "expanded_url": "https://twitter.com/sadiehawke1108/status/460082940072849408",
+            "display_url": "twitter.com/sadiehawke1108…",
+            "indices":  [
+              39,
+              62
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:01:35 +0000 2016",
+      "id": 705573876126756900,
+      "id_str": "705573876126756864",
+      "text": "RT @Micha_Joy: GITMO is almost empty. Perfect timing to fill it with all of the DC traitors... \n#Hillary first! #PresidentTrump",
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 632246185,
+        "id_str": "632246185",
+        "name": "Rightwing Badboy",
+        "screen_name": "KmYass",
+        "location": " United States of America ???",
+        "description": "Consv Opinionated Male: Pro Military, Israel,. Hate Liberalism, BLM, Big Gov, Dumbasses, (no follow backs if ideals not similar) (English only) (Rated R lang).",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 1435,
+        "friends_count": 1331,
+        "listed_count": 33,
+        "created_at": "Tue Jul 10 19:20:41 +0000 2012",
+        "favourites_count": 262,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15266,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/694545887/b62024f39dfdbb8ca4c23bcee6220de4.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/694545887/b62024f39dfdbb8ca4c23bcee6220de4.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499924091617296385/sXnBPN-h_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499924091617296385/sXnBPN-h_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/632246185/1408026199",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 01:52:04 +0000 2016",
+        "id": 705571479040106500,
+        "id_str": "705571479040106496",
+        "text": "GITMO is almost empty. Perfect timing to fill it with all of the DC traitors... \n#Hillary first! #PresidentTrump",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 1977419539,
+          "id_str": "1977419539",
+          "name": "Michaღ",
+          "screen_name": "Micha_Joy",
+          "location": "#MakeAmericaGreatAgain",
+          "description": "✌️ #IthinkOutsideUrBox #MommyLife #VETS #2A #LiveLoveHomeschool #HEisHEwasHEforeverwillbe MyFavs @SeanHannity @RealDonaldTrump",
+          "url": "https://t.co/nzcB0vI7OV",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/nzcB0vI7OV",
+                  "expanded_url": "http://www.LiveLoveHomeschool.net",
+                  "display_url": "LiveLoveHomeschool.net",
+                  "indices":  [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 14255,
+          "friends_count": 13315,
+          "listed_count": 192,
+          "created_at": "Mon Oct 21 04:23:55 +0000 2013",
+          "favourites_count": 11525,
+          "utc_offset": -28800,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 20935,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "DBE9ED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/646105809869537285/XdsLG0Bf.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/646105809869537285/XdsLG0Bf.jpg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/699443794404446209/lVVdY6a8_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/699443794404446209/lVVdY6a8_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1977419539/1456854418",
+          "profile_link_color": "CC3366",
+          "profile_sidebar_border_color": "DBE9ED",
+          "profile_sidebar_fill_color": "E6F6F9",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 3,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "Hillary",
+              "indices":  [
+                81,
+                89
+              ]
+            },
+             {
+              "text": "PresidentTrump",
+              "indices":  [
+                97,
+                112
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "Hillary",
+            "indices":  [
+              96,
+              104
+            ]
+          },
+           {
+            "text": "PresidentTrump",
+            "indices":  [
+              112,
+              127
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "Micha_Joy",
+            "name": "Michaღ",
+            "id": 1977419539,
+            "id_str": "1977419539",
+            "indices":  [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:01:28 +0000 2016",
+      "id": 705573845445566500,
+      "id_str": "705573845445566464",
+      "text": "RT @Imaumbn: #CURIOUS Did #Hillary's brother, Hugh, march with Nazis in Skokie—only 6-miles from Park Ridge?#ImWithHer #GOPDebate https://t…",
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 497923683,
+        "id_str": "497923683",
+        "name": "Russell Touchstone",
+        "screen_name": "RussellTstone",
+        "location": "",
+        "description": "Dad of 2 children, Husband to a wonderful wife. Conservative working against the forces of socialism.",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 241,
+        "friends_count": 149,
+        "listed_count": 14,
+        "created_at": "Mon Feb 20 14:15:07 +0000 2012",
+        "favourites_count": 174,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7326,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "050505",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/530368326/IndexOpen-914986.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/530368326/IndexOpen-914986.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/705039247221207040/Dd0uVagI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/705039247221207040/Dd0uVagI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/497923683/1450107588",
+        "profile_link_color": "000080",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 01:54:54 +0000 2016",
+        "id": 705572195045498900,
+        "id_str": "705572195045498881",
+        "text": "#CURIOUS Did #Hillary's brother, Hugh, march with Nazis in Skokie—only 6-miles from Park Ridge?#ImWithHer #GOPDebate https://t.co/QBlKM1xIhh",
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 31504040,
+          "id_str": "31504040",
+          "name": "IMΛUMBΝ™",
+          "screen_name": "Imaumbn",
+          "location": "Scootin' Ass On Liberal Rugs!",
+          "description": "American Son ★ The 2nd Most Interesting Man in The World! A Specially Trained & Fully Vaccinated Chaser of Bad Things & Sporadic Leg Humping SOB. Μολών λαβέ. Þ",
+          "url": "http://t.co/5edhDO2QN9",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/5edhDO2QN9",
+                  "expanded_url": "http://www.archives.gov/exhibits/charters/constitution.html",
+                  "display_url": "archives.gov/exhibits/chart…",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 12328,
+          "friends_count": 11887,
+          "listed_count": 245,
+          "created_at": "Wed Apr 15 20:09:46 +0000 2009",
+          "favourites_count": 12,
+          "utc_offset": 16200,
+          "time_zone": "Kabul",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 81861,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "81613E",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506714405300498433/uRwyt8na.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506714405300498433/uRwyt8na.jpeg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/617057364399644672/3qAyBlkb_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/617057364399644672/3qAyBlkb_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/31504040/1422287300",
+          "profile_link_color": "81613E",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "CURIOUS",
+              "indices":  [
+                0,
+                8
+              ]
+            },
+             {
+              "text": "Hillary",
+              "indices":  [
+                13,
+                21
+              ]
+            },
+             {
+              "text": "ImWithHer",
+              "indices":  [
+                95,
+                105
+              ]
+            },
+             {
+              "text": "GOPDebate",
+              "indices":  [
+                106,
+                116
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [],
+          "media":  [
+             {
+              "id": 705572188586266600,
+              "id_str": "705572188586266624",
+              "indices":  [
+                117,
+                140
+              ],
+              "media_url": "http://pbs.twimg.com/media/CcqyKtAUUAA_uMM.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CcqyKtAUUAA_uMM.jpg",
+              "url": "https://t.co/QBlKM1xIhh",
+              "display_url": "pic.twitter.com/QBlKM1xIhh",
+              "expanded_url": "http://twitter.com/Imaumbn/status/705572195045498881/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "large":  {
+                  "w": 430,
+                  "h": 294,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium":  {
+                  "w": 430,
+                  "h": 294,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 232,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "CURIOUS",
+            "indices":  [
+              13,
+              21
+            ]
+          },
+           {
+            "text": "Hillary",
+            "indices":  [
+              26,
+              34
+            ]
+          },
+           {
+            "text": "ImWithHer",
+            "indices":  [
+              108,
+              118
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              119,
+              129
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "Imaumbn",
+            "name": "IMΛUMBΝ™",
+            "id": 31504040,
+            "id_str": "31504040",
+            "indices":  [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls":  [],
+        "media":  [
+           {
+            "id": 705572188586266600,
+            "id_str": "705572188586266624",
+            "indices":  [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcqyKtAUUAA_uMM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcqyKtAUUAA_uMM.jpg",
+            "url": "https://t.co/QBlKM1xIhh",
+            "display_url": "pic.twitter.com/QBlKM1xIhh",
+            "expanded_url": "http://twitter.com/Imaumbn/status/705572195045498881/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "large":  {
+                "w": 430,
+                "h": 294,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium":  {
+                "w": 430,
+                "h": 294,
+                "resize": "fit"
+              },
+              "small":  {
+                "w": 340,
+                "h": 232,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 705572195045498900,
+            "source_status_id_str": "705572195045498881",
+            "source_user_id": 31504040,
+            "source_user_id_str": "31504040"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:01:22 +0000 2016",
+      "id": 705573820321685500,
+      "id_str": "705573820321685504",
+      "text": "RT @andersonDrLJA: MUST WATCH VIDEO FOR ALL AMERICANS": #HILLARY A Disgrace in Black History HER #WHOLE LIFE! https://t.co/ZOcYYoBbLA https…",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 142822782,
+        "id_str": "142822782",
+        "name": "CA Lee",
+        "screen_name": "CALee2010",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 70,
+        "friends_count": 102,
+        "listed_count": 13,
+        "created_at": "Tue May 11 21:27:18 +0000 2010",
+        "favourites_count": 1379,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5351,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/542060959448461312/_-osXcQe_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/542060959448461312/_-osXcQe_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:00:07 +0000 2016",
+        "id": 705573508466610200,
+        "id_str": "705573508466610176",
+        "text": "MUST WATCH VIDEO FOR ALL AMERICANS": #HILLARY A Disgrace in Black History HER #WHOLE LIFE! https://t.co/ZOcYYoBbLA https://t.co/adiwha54K2",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 2316246829,
+          "id_str": "2316246829",
+          "name": "Dr. Lynn J Anderson",
+          "screen_name": "andersonDrLJA",
+          "location": "Please Visit & Like",
+          "description": "Family Man; Christian (LDS); Retired Colonel USArmy; 5 GGFather killed in Revolutionary War; Father Navy WWII; Brother Marine VietNam: Want USA Back As Once Was",
+          "url": "https://t.co/JrjrTH8MSq",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/JrjrTH8MSq",
+                  "expanded_url": "https://www.facebook.com/StandUpNowPatriots",
+                  "display_url": "facebook.com/StandUpNowPatr…",
+                  "indices":  [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 77887,
+          "friends_count": 72035,
+          "listed_count": 671,
+          "created_at": "Wed Jan 29 00:15:12 +0000 2014",
+          "favourites_count": 21877,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 45075,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/652243528748150784/CT-zyFSu_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/652243528748150784/CT-zyFSu_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2316246829/1401393503",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 6,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "HILLARY",
+              "indices":  [
+                37,
+                45
+              ]
+            },
+             {
+              "text": "WHOLE",
+              "indices":  [
+                78,
+                84
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/ZOcYYoBbLA",
+              "expanded_url": "https://www.youtube.com/watch?v=5uWu0nSsg7w&feature=youtu.be",
+              "display_url": "youtube.com/watch?v=5uWu0n…",
+              "indices":  [
+                91,
+                114
+              ]
+            }
+          ],
+          "media":  [
+             {
+              "id": 705573485645443100,
+              "id_str": "705573485645443072",
+              "indices":  [
+                115,
+                138
+              ],
+              "media_url": "http://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+              "url": "https://t.co/adiwha54K2",
+              "display_url": "pic.twitter.com/adiwha54K2",
+              "expanded_url": "http://twitter.com/andersonDrLJA/status/705573508466610176/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 357,
+                  "h": 420,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "large":  {
+                  "w": 357,
+                  "h": 420,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "HILLARY",
+            "indices":  [
+              56,
+              64
+            ]
+          },
+           {
+            "text": "WHOLE",
+            "indices":  [
+              97,
+              103
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "andersonDrLJA",
+            "name": "Dr. Lynn J Anderson",
+            "id": 2316246829,
+            "id_str": "2316246829",
+            "indices":  [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/ZOcYYoBbLA",
+            "expanded_url": "https://www.youtube.com/watch?v=5uWu0nSsg7w&feature=youtu.be",
+            "display_url": "youtube.com/watch?v=5uWu0n…",
+            "indices":  [
+              110,
+              133
+            ]
+          }
+        ],
+        "media":  [
+           {
+            "id": 705573485645443100,
+            "id_str": "705573485645443072",
+            "indices":  [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+            "url": "https://t.co/adiwha54K2",
+            "display_url": "pic.twitter.com/adiwha54K2",
+            "expanded_url": "http://twitter.com/andersonDrLJA/status/705573508466610176/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "medium":  {
+                "w": 357,
+                "h": 420,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small":  {
+                "w": 340,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large":  {
+                "w": 357,
+                "h": 420,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 705573508466610200,
+            "source_status_id_str": "705573508466610176",
+            "source_user_id": 2316246829,
+            "source_user_id_str": "2316246829"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:01:21 +0000 2016",
+      "id": 705573816085381100,
+      "id_str": "705573816085381122",
+      "text": "RT @France4Hillary: In a few minutes, @katyperry, @eltonofficial, & @AndraDayMusic will sing for #Hillary at NYC #ImWithHer Concert! https:…",
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 3068399231,
+        "id_str": "3068399231",
+        "name": "Patricia L Whiteside",
+        "screen_name": "PLW567",
+        "location": "Palm Beach & Naples Florida: N",
+        "description": "Appraisals Estate Specialists, Patricia L. Whiteside, Inc. Has Over 25 Years Experience Appraising 5 Centuries Of Fine Art Antiques & Personal Property.",
+        "url": "http://t.co/w75wxhqd7G",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/w75wxhqd7G",
+                "expanded_url": "http://www.appraisalsestatespecialists.com",
+                "display_url": "appraisalsestatespecialists.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 2311,
+        "friends_count": 2519,
+        "listed_count": 240,
+        "created_at": "Tue Mar 03 18:38:15 +0000 2015",
+        "favourites_count": 1297,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14362,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/585789245047996416/l78JaO38_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/585789245047996416/l78JaO38_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3068399231/1433946978",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Wed Mar 02 22:17:58 +0000 2016",
+        "id": 705155212768616400,
+        "id_str": "705155212768616449",
+        "text": "In a few minutes, @katyperry, @eltonofficial, & @AndraDayMusic will sing for #Hillary at NYC #ImWithHer Concert! https://t.co/SpnAT3ZXCg",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 4327242015,
+          "id_str": "4327242015",
+          "name": "France for Hillary!",
+          "screen_name": "France4Hillary",
+          "location": "Paris, Ile-de-France",
+          "description": "France's view on American politics. @HillaryClinton will make America greater and safer and will be the world's best ally! #ImWithHer #NeverTrump",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 5954,
+          "friends_count": 6508,
+          "listed_count": 82,
+          "created_at": "Mon Nov 30 09:07:06 +0000 2015",
+          "favourites_count": 8880,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 910,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/688691953224011776/QgmbJx9T_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/688691953224011776/QgmbJx9T_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4327242015/1451166985",
+          "profile_link_color": "3B94D9",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 114,
+        "favorite_count": 187,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "Hillary",
+              "indices":  [
+                81,
+                89
+              ]
+            },
+             {
+              "text": "ImWithHer",
+              "indices":  [
+                97,
+                107
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "katyperry",
+              "name": "KATY PERRY",
+              "id": 21447363,
+              "id_str": "21447363",
+              "indices":  [
+                18,
+                28
+              ]
+            },
+             {
+              "screen_name": "eltonofficial",
+              "name": "Elton John",
+              "id": 174593833,
+              "id_str": "174593833",
+              "indices":  [
+                30,
+                44
+              ]
+            },
+             {
+              "screen_name": "AndraDayMusic",
+              "name": "Andra Day",
+              "id": 815537202,
+              "id_str": "815537202",
+              "indices":  [
+                52,
+                66
+              ]
+            }
+          ],
+          "urls":  [],
+          "media":  [
+             {
+              "id": 705155211279654900,
+              "id_str": "705155211279654912",
+              "indices":  [
+                117,
+                140
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cck27bfW4AAuuf4.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cck27bfW4AAuuf4.jpg",
+              "url": "https://t.co/SpnAT3ZXCg",
+              "display_url": "pic.twitter.com/SpnAT3ZXCg",
+              "expanded_url": "http://twitter.com/France4Hillary/status/705155212768616449/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large":  {
+                  "w": 1000,
+                  "h": 758,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 258,
+                  "resize": "fit"
+                },
+                "medium":  {
+                  "w": 600,
+                  "h": 455,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 114,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "Hillary",
+            "indices":  [
+              101,
+              109
+            ]
+          },
+           {
+            "text": "ImWithHer",
+            "indices":  [
+              117,
+              127
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "France4Hillary",
+            "name": "France for Hillary!",
+            "id": 4327242015,
+            "id_str": "4327242015",
+            "indices":  [
+              3,
+              18
+            ]
+          },
+           {
+            "screen_name": "katyperry",
+            "name": "KATY PERRY",
+            "id": 21447363,
+            "id_str": "21447363",
+            "indices":  [
+              38,
+              48
+            ]
+          },
+           {
+            "screen_name": "eltonofficial",
+            "name": "Elton John",
+            "id": 174593833,
+            "id_str": "174593833",
+            "indices":  [
+              50,
+              64
+            ]
+          },
+           {
+            "screen_name": "AndraDayMusic",
+            "name": "Andra Day",
+            "id": 815537202,
+            "id_str": "815537202",
+            "indices":  [
+              72,
+              86
+            ]
+          }
+        ],
+        "urls":  [],
+        "media":  [
+           {
+            "id": 705155211279654900,
+            "id_str": "705155211279654912",
+            "indices":  [
+              143,
+              144
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cck27bfW4AAuuf4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cck27bfW4AAuuf4.jpg",
+            "url": "https://t.co/SpnAT3ZXCg",
+            "display_url": "pic.twitter.com/SpnAT3ZXCg",
+            "expanded_url": "http://twitter.com/France4Hillary/status/705155212768616449/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large":  {
+                "w": 1000,
+                "h": 758,
+                "resize": "fit"
+              },
+              "small":  {
+                "w": 340,
+                "h": 258,
+                "resize": "fit"
+              },
+              "medium":  {
+                "w": 600,
+                "h": 455,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 705155212768616400,
+            "source_status_id_str": "705155212768616449",
+            "source_user_id": 4327242015,
+            "source_user_id_str": "4327242015"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:00:59 +0000 2016",
+      "id": 705573724116918300,
+      "id_str": "705573724116918272",
+      "text": "@JonathanCohn Pragmatism is the new hypocrisy. Or is it hypocrisy is the new pragmatism? Either way, #Hillary has it nailed.",
+      "source": "<a href="http://www.tweetcaster.com" rel="nofollow">TweetCaster for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 705466714973216800,
+      "in_reply_to_status_id_str": "705466714973216768",
+      "in_reply_to_user_id": 18400972,
+      "in_reply_to_user_id_str": "18400972",
+      "in_reply_to_screen_name": "JonathanCohn",
+      "user":  {
+        "id": 803227008,
+        "id_str": "803227008",
+        "name": "David Gondek",
+        "screen_name": "mutex7",
+        "location": "Wisconsin",
+        "description": "I wouldn't lead you into paradise even if I knew the way. Because, if I could lead you in, someone else would just come along & lead you right back out again.",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 144,
+        "friends_count": 31,
+        "listed_count": 12,
+        "created_at": "Tue Sep 04 21:18:24 +0000 2012",
+        "favourites_count": 134,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16643,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2584347660/v52d103c2lqw2lyr2ced_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2584347660/v52d103c2lqw2lyr2ced_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "Hillary",
+            "indices":  [
+              101,
+              109
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "JonathanCohn",
+            "name": "Jonathan Cohn",
+            "id": 18400972,
+            "id_str": "18400972",
+            "indices":  [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:00:49 +0000 2016",
+      "id": 705573684531105800,
+      "id_str": "705573684531105792",
+      "text": "@cnn @msnbc pundits caution #GOP candidates not to offend #Trump voters. Any1 care about #Hillary voters when constantly bashing her?",
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 759251,
+      "in_reply_to_user_id_str": "759251",
+      "in_reply_to_screen_name": "CNN",
+      "user":  {
+        "id": 418788731,
+        "id_str": "418788731",
+        "name": "Trish_Tosch",
+        "screen_name": "Trish_Tosch",
+        "location": "Hampton Roads, VA",
+        "description": "Blogger, mkting consultant, social butterfly, do-gooder, C-Span Sox Pats Celtics fanatic. Horse racing enthusiast. RTs not endorsements. \nOh and #meanpeoplesuck",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 204,
+        "friends_count": 773,
+        "listed_count": 10,
+        "created_at": "Tue Nov 22 15:40:33 +0000 2011",
+        "favourites_count": 509,
+        "utc_offset": -14400,
+        "time_zone": "Atlantic Time (Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 951,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437344243/Backyard.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437344243/Backyard.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/702171003871477761/pLx_Fz5I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/702171003871477761/pLx_Fz5I_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/418788731/1382483119",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "GOP",
+            "indices":  [
+              28,
+              32
+            ]
+          },
+           {
+            "text": "Trump",
+            "indices":  [
+              58,
+              64
+            ]
+          },
+           {
+            "text": "Hillary",
+            "indices":  [
+              89,
+              97
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "CNN",
+            "name": "CNN",
+            "id": 759251,
+            "id_str": "759251",
+            "indices":  [
+              0,
+              4
+            ]
+          },
+           {
+            "screen_name": "MSNBC",
+            "name": "MSNBC",
+            "id": 2836421,
+            "id_str": "2836421",
+            "indices":  [
+              5,
+              11
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:00:44 +0000 2016",
+      "id": 705573661294596100,
+      "id_str": "705573661294596096",
+      "text": "RT @andersonDrLJA: MUST WATCH VIDEO FOR ALL AMERICANS": #HILLARY A Disgrace in Black History HER #WHOLE LIFE! https://t.co/ZOcYYoBbLA https…",
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 141034081,
+        "id_str": "141034081",
+        "name": "Linda Burrell",
+        "screen_name": "lindaburrell",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 7,
+        "friends_count": 24,
+        "listed_count": 3,
+        "created_at": "Fri May 07 01:07:47 +0000 2010",
+        "favourites_count": 57,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 36,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:00:07 +0000 2016",
+        "id": 705573508466610200,
+        "id_str": "705573508466610176",
+        "text": "MUST WATCH VIDEO FOR ALL AMERICANS": #HILLARY A Disgrace in Black History HER #WHOLE LIFE! https://t.co/ZOcYYoBbLA https://t.co/adiwha54K2",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 2316246829,
+          "id_str": "2316246829",
+          "name": "Dr. Lynn J Anderson",
+          "screen_name": "andersonDrLJA",
+          "location": "Please Visit & Like",
+          "description": "Family Man; Christian (LDS); Retired Colonel USArmy; 5 GGFather killed in Revolutionary War; Father Navy WWII; Brother Marine VietNam: Want USA Back As Once Was",
+          "url": "https://t.co/JrjrTH8MSq",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/JrjrTH8MSq",
+                  "expanded_url": "https://www.facebook.com/StandUpNowPatriots",
+                  "display_url": "facebook.com/StandUpNowPatr…",
+                  "indices":  [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 77887,
+          "friends_count": 72035,
+          "listed_count": 671,
+          "created_at": "Wed Jan 29 00:15:12 +0000 2014",
+          "favourites_count": 21877,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 45075,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/652243528748150784/CT-zyFSu_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/652243528748150784/CT-zyFSu_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2316246829/1401393503",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 6,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "HILLARY",
+              "indices":  [
+                37,
+                45
+              ]
+            },
+             {
+              "text": "WHOLE",
+              "indices":  [
+                78,
+                84
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/ZOcYYoBbLA",
+              "expanded_url": "https://www.youtube.com/watch?v=5uWu0nSsg7w&feature=youtu.be",
+              "display_url": "youtube.com/watch?v=5uWu0n…",
+              "indices":  [
+                91,
+                114
+              ]
+            }
+          ],
+          "media":  [
+             {
+              "id": 705573485645443100,
+              "id_str": "705573485645443072",
+              "indices":  [
+                115,
+                138
+              ],
+              "media_url": "http://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+              "url": "https://t.co/adiwha54K2",
+              "display_url": "pic.twitter.com/adiwha54K2",
+              "expanded_url": "http://twitter.com/andersonDrLJA/status/705573508466610176/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 357,
+                  "h": 420,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "large":  {
+                  "w": 357,
+                  "h": 420,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "HILLARY",
+            "indices":  [
+              56,
+              64
+            ]
+          },
+           {
+            "text": "WHOLE",
+            "indices":  [
+              97,
+              103
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "andersonDrLJA",
+            "name": "Dr. Lynn J Anderson",
+            "id": 2316246829,
+            "id_str": "2316246829",
+            "indices":  [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/ZOcYYoBbLA",
+            "expanded_url": "https://www.youtube.com/watch?v=5uWu0nSsg7w&feature=youtu.be",
+            "display_url": "youtube.com/watch?v=5uWu0n…",
+            "indices":  [
+              110,
+              133
+            ]
+          }
+        ],
+        "media":  [
+           {
+            "id": 705573485645443100,
+            "id_str": "705573485645443072",
+            "indices":  [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+            "url": "https://t.co/adiwha54K2",
+            "display_url": "pic.twitter.com/adiwha54K2",
+            "expanded_url": "http://twitter.com/andersonDrLJA/status/705573508466610176/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "medium":  {
+                "w": 357,
+                "h": 420,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small":  {
+                "w": 340,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large":  {
+                "w": 357,
+                "h": 420,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 705573508466610200,
+            "source_status_id_str": "705573508466610176",
+            "source_user_id": 2316246829,
+            "source_user_id_str": "2316246829"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:00:40 +0000 2016",
+      "id": 705573646241292300,
+      "id_str": "705573646241292288",
+      "text": "RT @WaldenE: #RIPBertaCaceres\nCan't HIDE ur past #Hillary!\n@robinhillock77 @JonathanCohn @kimberlymontse1 https://t.co/4B04il35UF https://t…",
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 940534752,
+        "id_str": "940534752",
+        "name": "kimberly montserrat",
+        "screen_name": "kimberlymontse1",
+        "location": "#DirtyDeals #KnowYourChemistry",
+        "description": "Living life bioChemicallyBalanced. Masters Health Sciences #GoOrganic ;)#ClimateChangeIsReal #GoSolar #StrongerTogether #Bernie2016 #RiseUp #GetMoneyOut",
+        "url": "https://t.co/EHrhoD1Q6L",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/EHrhoD1Q6L",
+                "expanded_url": "https://www.facebook.com/SOtruthBEtold",
+                "display_url": "facebook.com/SOtruthBEtold",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 3475,
+        "friends_count": 3443,
+        "listed_count": 232,
+        "created_at": "Sun Nov 11 04:30:05 +0000 2012",
+        "favourites_count": 17914,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 42443,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662400830574895107/LzS9-4lW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662400830574895107/LzS9-4lW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/940534752/1451503081",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Thu Mar 03 22:09:54 +0000 2016",
+        "id": 705515568925900800,
+        "id_str": "705515568925900801",
+        "text": "#RIPBertaCaceres\nCan't HIDE ur past #Hillary!\n@robinhillock77 @JonathanCohn @kimberlymontse1 https://t.co/4B04il35UF https://t.co/yEo07QL5w7",
+        "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 705497249812500500,
+        "in_reply_to_status_id_str": "705497249812500485",
+        "in_reply_to_user_id": 2373121536,
+        "in_reply_to_user_id_str": "2373121536",
+        "in_reply_to_screen_name": "robinhillock77",
+        "user":  {
+          "id": 27127139,
+          "id_str": "27127139",
+          "name": "Ms Walden E",
+          "screen_name": "WaldenE",
+          "location": "East Village, San Diego",
+          "description": "Hi! Like my tweets? Follow me; if I like yours, I'll follow you, too. Peace & Love to YOU! Tweet u soon... Go #Padres!",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 2167,
+          "friends_count": 1859,
+          "listed_count": 177,
+          "created_at": "Fri Mar 27 23:31:49 +0000 2009",
+          "favourites_count": 9303,
+          "utc_offset": -28800,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 50457,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "EDECE9",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/65433307/xbcf40fd779aa3e63bb68893697d567a.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/65433307/xbcf40fd779aa3e63bb68893697d567a.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/648695835681665024/hCHZ3ypY_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/648695835681665024/hCHZ3ypY_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/27127139/1378156113",
+          "profile_link_color": "088253",
+          "profile_sidebar_border_color": "D3D2CF",
+          "profile_sidebar_fill_color": "E3E2DE",
+          "profile_text_color": "634047",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 705497249812500500,
+        "quoted_status_id_str": "705497249812500485",
+        "quoted_status":  {
+          "metadata":  {
+            "iso_language_code": "en",
+            "result_type": "recent"
+          },
+          "created_at": "Thu Mar 03 20:57:06 +0000 2016",
+          "id": 705497249812500500,
+          "id_str": "705497249812500485",
+          "text": "Awful story! All women thinking of voting HRC need to read this! I'll NEVER vote for her! https://t.co/euM24mNjRz",
+          "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "quoted_status_id": 705471796376686600,
+          "quoted_status_id_str": "705471796376686592",
+          "is_quote_status": true,
+          "retweet_count": 3,
+          "favorite_count": 5,
+          "entities":  {
+            "hashtags":  [],
+            "symbols":  [],
+            "user_mentions":  [],
+            "urls":  [
+               {
+                "url": "https://t.co/euM24mNjRz",
+                "expanded_url": "https://twitter.com/WaldenE/status/705471796376686592",
+                "display_url": "twitter.com/WaldenE/status…",
+                "indices":  [
+                  91,
+                  114
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": true,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "RIPBertaCaceres",
+              "indices":  [
+                0,
+                16
+              ]
+            },
+             {
+              "text": "Hillary",
+              "indices":  [
+                36,
+                44
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "robinhillock77",
+              "name": "RJ",
+              "id": 2373121536,
+              "id_str": "2373121536",
+              "indices":  [
+                46,
+                61
+              ]
+            },
+             {
+              "screen_name": "JonathanCohn",
+              "name": "Jonathan Cohn",
+              "id": 18400972,
+              "id_str": "18400972",
+              "indices":  [
+                62,
+                75
+              ]
+            },
+             {
+              "screen_name": "kimberlymontse1",
+              "name": "kimberly montserrat",
+              "id": 940534752,
+              "id_str": "940534752",
+              "indices":  [
+                76,
+                92
+              ]
+            }
+          ],
+          "urls":  [
+             {
+              "url": "https://t.co/4B04il35UF",
+              "expanded_url": "https://twitter.com/WaldenE/status/705497249812500485",
+              "display_url": "twitter.com/WaldenE/status…",
+              "indices":  [
+                93,
+                116
+              ]
+            }
+          ],
+          "media":  [
+             {
+              "id": 705515558154825700,
+              "id_str": "705515558154825728",
+              "indices":  [
+                117,
+                140
+              ],
+              "media_url": "http://pbs.twimg.com/media/Ccp-qYNUcAA8PDE.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Ccp-qYNUcAA8PDE.jpg",
+              "url": "https://t.co/yEo07QL5w7",
+              "display_url": "pic.twitter.com/yEo07QL5w7",
+              "expanded_url": "http://twitter.com/WaldenE/status/705515568925900801/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "large":  {
+                  "w": 720,
+                  "h": 1280,
+                  "resize": "fit"
+                },
+                "medium":  {
+                  "w": 600,
+                  "h": 1067,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 604,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "RIPBertaCaceres",
+            "indices":  [
+              13,
+              29
+            ]
+          },
+           {
+            "text": "Hillary",
+            "indices":  [
+              49,
+              57
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "WaldenE",
+            "name": "Ms Walden E",
+            "id": 27127139,
+            "id_str": "27127139",
+            "indices":  [
+              3,
+              11
+            ]
+          },
+           {
+            "screen_name": "robinhillock77",
+            "name": "RJ",
+            "id": 2373121536,
+            "id_str": "2373121536",
+            "indices":  [
+              59,
+              74
+            ]
+          },
+           {
+            "screen_name": "JonathanCohn",
+            "name": "Jonathan Cohn",
+            "id": 18400972,
+            "id_str": "18400972",
+            "indices":  [
+              75,
+              88
+            ]
+          },
+           {
+            "screen_name": "kimberlymontse1",
+            "name": "kimberly montserrat",
+            "id": 940534752,
+            "id_str": "940534752",
+            "indices":  [
+              89,
+              105
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/4B04il35UF",
+            "expanded_url": "https://twitter.com/WaldenE/status/705497249812500485",
+            "display_url": "twitter.com/WaldenE/status…",
+            "indices":  [
+              106,
+              129
+            ]
+          }
+        ],
+        "media":  [
+           {
+            "id": 705515558154825700,
+            "id_str": "705515558154825728",
+            "indices":  [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ccp-qYNUcAA8PDE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ccp-qYNUcAA8PDE.jpg",
+            "url": "https://t.co/yEo07QL5w7",
+            "display_url": "pic.twitter.com/yEo07QL5w7",
+            "expanded_url": "http://twitter.com/WaldenE/status/705515568925900801/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "large":  {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium":  {
+                "w": 600,
+                "h": 1067,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small":  {
+                "w": 340,
+                "h": 604,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 705515568925900800,
+            "source_status_id_str": "705515568925900801",
+            "source_user_id": 27127139,
+            "source_user_id_str": "27127139"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:00:34 +0000 2016",
+      "id": 705573620203065300,
+      "id_str": "705573620203065344",
+      "text": "RT @andersonDrLJA: MUST WATCH VIDEO FOR ALL AMERICANS": #HILLARY A Disgrace in Black History HER #WHOLE LIFE! https://t.co/ZOcYYoBbLA https…",
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 287840716,
+        "id_str": "287840716",
+        "name": "Tonya Thomas Folks",
+        "screen_name": "Tonya_Folks",
+        "location": "Ohio",
+        "description": "NP Director, Human Trafficking Liaison, Journalist, Author, vast plethora of other titles . Philosophy: Better to burn out than fade away",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 120,
+        "friends_count": 234,
+        "listed_count": 3,
+        "created_at": "Mon Apr 25 19:41:38 +0000 2011",
+        "favourites_count": 131,
+        "utc_offset": -18000,
+        "time_zone": "America/New_York",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 556,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/663462837352726530/24oE44Be_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/663462837352726530/24oE44Be_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/287840716/1447016856",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:00:07 +0000 2016",
+        "id": 705573508466610200,
+        "id_str": "705573508466610176",
+        "text": "MUST WATCH VIDEO FOR ALL AMERICANS": #HILLARY A Disgrace in Black History HER #WHOLE LIFE! https://t.co/ZOcYYoBbLA https://t.co/adiwha54K2",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 2316246829,
+          "id_str": "2316246829",
+          "name": "Dr. Lynn J Anderson",
+          "screen_name": "andersonDrLJA",
+          "location": "Please Visit & Like",
+          "description": "Family Man; Christian (LDS); Retired Colonel USArmy; 5 GGFather killed in Revolutionary War; Father Navy WWII; Brother Marine VietNam: Want USA Back As Once Was",
+          "url": "https://t.co/JrjrTH8MSq",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/JrjrTH8MSq",
+                  "expanded_url": "https://www.facebook.com/StandUpNowPatriots",
+                  "display_url": "facebook.com/StandUpNowPatr…",
+                  "indices":  [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 77887,
+          "friends_count": 72035,
+          "listed_count": 671,
+          "created_at": "Wed Jan 29 00:15:12 +0000 2014",
+          "favourites_count": 21877,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 45075,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/652243528748150784/CT-zyFSu_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/652243528748150784/CT-zyFSu_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2316246829/1401393503",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 6,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "HILLARY",
+              "indices":  [
+                37,
+                45
+              ]
+            },
+             {
+              "text": "WHOLE",
+              "indices":  [
+                78,
+                84
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/ZOcYYoBbLA",
+              "expanded_url": "https://www.youtube.com/watch?v=5uWu0nSsg7w&feature=youtu.be",
+              "display_url": "youtube.com/watch?v=5uWu0n…",
+              "indices":  [
+                91,
+                114
+              ]
+            }
+          ],
+          "media":  [
+             {
+              "id": 705573485645443100,
+              "id_str": "705573485645443072",
+              "indices":  [
+                115,
+                138
+              ],
+              "media_url": "http://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+              "url": "https://t.co/adiwha54K2",
+              "display_url": "pic.twitter.com/adiwha54K2",
+              "expanded_url": "http://twitter.com/andersonDrLJA/status/705573508466610176/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 357,
+                  "h": 420,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "large":  {
+                  "w": 357,
+                  "h": 420,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "HILLARY",
+            "indices":  [
+              56,
+              64
+            ]
+          },
+           {
+            "text": "WHOLE",
+            "indices":  [
+              97,
+              103
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "andersonDrLJA",
+            "name": "Dr. Lynn J Anderson",
+            "id": 2316246829,
+            "id_str": "2316246829",
+            "indices":  [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/ZOcYYoBbLA",
+            "expanded_url": "https://www.youtube.com/watch?v=5uWu0nSsg7w&feature=youtu.be",
+            "display_url": "youtube.com/watch?v=5uWu0n…",
+            "indices":  [
+              110,
+              133
+            ]
+          }
+        ],
+        "media":  [
+           {
+            "id": 705573485645443100,
+            "id_str": "705573485645443072",
+            "indices":  [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcqzWM7UsAA55Fn.jpg",
+            "url": "https://t.co/adiwha54K2",
+            "display_url": "pic.twitter.com/adiwha54K2",
+            "expanded_url": "http://twitter.com/andersonDrLJA/status/705573508466610176/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "medium":  {
+                "w": 357,
+                "h": 420,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small":  {
+                "w": 340,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large":  {
+                "w": 357,
+                "h": 420,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 705573508466610200,
+            "source_status_id_str": "705573508466610176",
+            "source_user_id": 2316246829,
+            "source_user_id_str": "2316246829"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:00:32 +0000 2016",
+      "id": 705573612799930400,
+      "id_str": "705573612799930368",
+      "text": "@thegardner97 @ChrisCoon4 @MarkSimoneNY @seanhannity #Trump is a lifelong Dem until now like pal #Hillary and Dems formed the KKK",
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 705491388268355600,
+      "in_reply_to_status_id_str": "705491388268355585",
+      "in_reply_to_user_id": 896142427,
+      "in_reply_to_user_id_str": "896142427",
+      "in_reply_to_screen_name": "thegardner97",
+      "user":  {
+        "id": 81438841,
+        "id_str": "81438841",
+        "name": "AmericanWoman",
+        "screen_name": "LWilsonDarlene",
+        "location": "Chicago, IL",
+        "description": "For God, Family, and Country #CruzCrew #Christian #ConstitutionalConservative #2A #NRA #MolonLabe #WeThePeople #1A #TermLimits #WakeUpAmerica #NeverOutGunned",
+        "url": "http://t.co/egO8KTukRa",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/egO8KTukRa",
+                "expanded_url": "http://zone6combatives.com",
+                "display_url": "zone6combatives.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 7857,
+        "friends_count": 8338,
+        "listed_count": 228,
+        "created_at": "Sat Oct 10 20:50:54 +0000 2009",
+        "favourites_count": 10220,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 66566,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649308975792394240/Y-jabO1K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649308975792394240/Y-jabO1K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/81438841/1443641530",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "Trump",
+            "indices":  [
+              53,
+              59
+            ]
+          },
+           {
+            "text": "Hillary",
+            "indices":  [
+              97,
+              105
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "thegardner97",
+            "name": "Dan Malo",
+            "id": 896142427,
+            "id_str": "896142427",
+            "indices":  [
+              0,
+              13
+            ]
+          },
+           {
+            "screen_name": "ChrisCoon4",
+            "name": "Chris Coon",
+            "id": 410076442,
+            "id_str": "410076442",
+            "indices":  [
+              14,
+              25
+            ]
+          },
+           {
+            "screen_name": "MarkSimoneNY",
+            "name": "MARK SIMONE",
+            "id": 18071459,
+            "id_str": "18071459",
+            "indices":  [
+              26,
+              39
+            ]
+          },
+           {
+            "screen_name": "seanhannity",
+            "name": "Sean Hannity",
+            "id": 41634520,
+            "id_str": "41634520",
+            "indices":  [
+              40,
+              52
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata":  {
+    "completed_in": 0.055,
+    "max_id": 705574052627406800,
+    "max_id_str": "705574052627406848",
+    "next_results": "?max_id=705573612799930367&q=%23hillary&include_entities=1",
+    "query": "%23hillary",
+    "refresh_url": "?since_id=705574052627406848&q=%23hillary&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

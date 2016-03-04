@@ -1,0 +1,3309 @@
+HTTP/1.1 200 OK
+x-frame-options:
+SAMEORIGIN
+x-rate-limit-remaining:
+177
+last-modified:
+Fri, 04 Mar 2016 02:06:50 GMT
+status:
+200 OK
+Content-Length:
+77100
+x-response-time:
+81
+Connection:
+keep-alive
+x-transaction:
+f0679b97d335ed51
+Server:
+tsa_b
+pragma:
+no-cache
+cache-control:
+no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+797a53b3985c3118c72861c0fd39b48b
+x-xss-protection:
+1; mode=block
+x-content-type-options:
+nosniff
+x-rate-limit-limit:
+180
+expires:
+Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+Fri, 04 Mar 2016 02:06:50 GMT
+set-cookie:
+lang=en; Path=/
+set-cookie:
+guest_id=v1%3A145705721007452246; Domain=.twitter.com; Path=/; Expires=Sun, 04-Mar-2018 02:06:50 UTC
+x-rate-limit-reset:
+1457057866
+content-disposition:
+attachment; filename=json.json
+x-twitter-response-tags:
+BouncerCompliant
+strict-transport-security:
+max-age=631138519
+x-access-level:
+read-write-directmessages
+Content-Type:
+application/json;charset=utf-8
+
+{
+  "statuses":  [
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:29 +0000 2016",
+      "id": 705575108493099000,
+      "id_str": "705575108493099008",
+      "text": ""I would much prefer to have a policy debate," #MarcoRubio when asked about his recent attacks against #DonaldTrump. \n\n#GOPDebate",
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 859016395,
+        "id_str": "859016395",
+        "name": "Taylor Popielarz",
+        "screen_name": "TaylorPopielarz",
+        "location": "IN - NJ - NY ",
+        "description": "Multimedia Journalist @ABC57News | Former Intern @NBCInvestigates, @ABC, @fox5ny | @QuinnipiacU/@Q30News Alum | Passionate About Politics & Pizza",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 801,
+        "friends_count": 249,
+        "listed_count": 37,
+        "created_at": "Wed Oct 03 01:42:14 +0000 2012",
+        "favourites_count": 22167,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12004,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/602233440910454784/LMyPKnT8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/602233440910454784/LMyPKnT8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/859016395/1432002390",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "MarcoRubio",
+            "indices":  [
+              47,
+              58
+            ]
+          },
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              103,
+              115
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              119,
+              129
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:29 +0000 2016",
+      "id": 705575107469647900,
+      "id_str": "705575107469647873",
+      "text": "RT @BBCWorld: Presidential hopeful #DonaldTrump expects more attacks from Republican contenders during Michigan's #GOPDebate https://t.co/t…",
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 3019226968,
+        "id_str": "3019226968",
+        "name": "Fr££domFight€r¤¤¤",
+        "screen_name": "Ab_Gifted",
+        "location": "KAMPALA_UGANDA ",
+        "description": "Aint no shit, Aint give a damn cos Aint worry about nothing◾◾◾ money Thats all i want: ma desire》》fowarder➡⏩《《backward 》⬅⏪never",
+        "url": "https://t.co/0gIKsk6K3m",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/0gIKsk6K3m",
+                "expanded_url": "http://twitter.com/Ab_Gifted.0.blog",
+                "display_url": "twitter.com/Ab_Gifted.0.bl…",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 199,
+        "friends_count": 322,
+        "listed_count": 25,
+        "created_at": "Thu Feb 05 02:14:01 +0000 2015",
+        "favourites_count": 1802,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15179,
+        "lang": "en-gb",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/705573184641351681/xIR199HP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/705573184641351681/xIR199HP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3019226968/1447766395",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:04:46 +0000 2016",
+        "id": 705574676039409700,
+        "id_str": "705574676039409665",
+        "text": "Presidential hopeful #DonaldTrump expects more attacks from Republican contenders during Michigan's #GOPDebate https://t.co/tO4W2CHwSE",
+        "source": "<a href="http://www.socialflow.com" rel="nofollow">SocialFlow</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 742143,
+          "id_str": "742143",
+          "name": "BBC News (World)",
+          "screen_name": "BBCWorld",
+          "location": "London, UK",
+          "description": "Where we #LiveTheStory - join us\nhttp://t.co/zQYj7l9rp2",
+          "url": "http://t.co/hqt08RrbCA",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/hqt08RrbCA",
+                  "expanded_url": "http://www.bbc.com/news",
+                  "display_url": "bbc.com/news",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/zQYj7l9rp2",
+                  "expanded_url": "http://bbc.in/1JOy0bB",
+                  "display_url": "bbc.in/1JOy0bB",
+                  "indices":  [
+                    33,
+                    55
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 13473049,
+          "friends_count": 104,
+          "listed_count": 95516,
+          "created_at": "Thu Feb 01 07:44:29 +0000 2007",
+          "favourites_count": 1,
+          "utc_offset": 0,
+          "time_zone": "London",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 225987,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459295591915204608/P0byaGJj.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459295591915204608/P0byaGJj.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/694449140269518848/57ZmXva0_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/694449140269518848/57ZmXva0_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/742143/1398339487",
+          "profile_link_color": "1F527B",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "FFFFFF",
+          "profile_text_color": "5A5A5A",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 9,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "DonaldTrump",
+              "indices":  [
+                21,
+                33
+              ]
+            },
+             {
+              "text": "GOPDebate",
+              "indices":  [
+                100,
+                110
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/tO4W2CHwSE",
+              "expanded_url": "http://bbc.in/1QPONZT",
+              "display_url": "bbc.in/1QPONZT",
+              "indices":  [
+                111,
+                134
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              35,
+              47
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              114,
+              124
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "BBCWorld",
+            "name": "BBC News (World)",
+            "id": 742143,
+            "id_str": "742143",
+            "indices":  [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/tO4W2CHwSE",
+            "expanded_url": "http://bbc.in/1QPONZT",
+            "display_url": "bbc.in/1QPONZT",
+            "indices":  [
+              125,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:29 +0000 2016",
+      "id": 705575106873991200,
+      "id_str": "705575106873991168",
+      "text": "RT @FoxNews: #DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up.…",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 20715638,
+        "id_str": "20715638",
+        "name": "Phil De Carolis",
+        "screen_name": "PhilDeCarolis",
+        "location": "Southern California, U.S.",
+        "description": "",
+        "url": "http://t.co/N7IlkKGuR0",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/N7IlkKGuR0",
+                "expanded_url": "http://www.facebook.com/#!/profile.php?id=1255246954",
+                "display_url": "facebook.com/#!/profile.php…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 3456,
+        "friends_count": 47,
+        "listed_count": 796,
+        "created_at": "Thu Feb 12 20:42:54 +0000 2009",
+        "favourites_count": 11,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 615053,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/57106457/PhilDecarolisBanner-1.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/57106457/PhilDecarolisBanner-1.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2828969248/fe68d4becba183c3c27b39c0f8ad8a68_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2828969248/fe68d4becba183c3c27b39c0f8ad8a68_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20715638/1403451236",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:06:12 +0000 2016",
+        "id": 705575036636287000,
+        "id_str": "705575036636286976",
+        "text": "#DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up." #GOPDebate",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 1367531,
+          "id_str": "1367531",
+          "name": "Fox News",
+          "screen_name": "FoxNews",
+          "location": "U.S.A.",
+          "description": "America’s Strongest Primetime Lineup Anywhere! Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos.",
+          "url": "http://t.co/ZYG58XZtAC",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/ZYG58XZtAC",
+                  "expanded_url": "http://www.foxnews.com",
+                  "display_url": "foxnews.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 8406518,
+          "friends_count": 395,
+          "listed_count": 50590,
+          "created_at": "Sat Mar 17 19:01:26 +0000 2007",
+          "favourites_count": 1,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 237577,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "0E2331",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1367531/1438615348",
+          "profile_link_color": "183A52",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "F4F4F4",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 33,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "DonaldTrump",
+              "indices":  [
+                0,
+                12
+              ]
+            },
+             {
+              "text": "GOPDebate",
+              "indices":  [
+                128,
+                138
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              13,
+              25
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              139,
+              140
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "FoxNews",
+            "name": "Fox News",
+            "id": 1367531,
+            "id_str": "1367531",
+            "indices":  [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:28 +0000 2016",
+      "id": 705575105913626600,
+      "id_str": "705575105913626628",
+      "text": "RT @FoxNews: #DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up.…",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 700530719479693300,
+        "id_str": "700530719479693313",
+        "name": "Just Vote",
+        "screen_name": "trumpfan023",
+        "location": "United States",
+        "description": "",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 12,
+        "friends_count": 72,
+        "listed_count": 1,
+        "created_at": "Fri Feb 19 04:01:53 +0000 2016",
+        "favourites_count": 79,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 94,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/701230394176364548/CVy5DnKD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/701230394176364548/CVy5DnKD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/700530719479693313/1456415791",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:06:12 +0000 2016",
+        "id": 705575036636287000,
+        "id_str": "705575036636286976",
+        "text": "#DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up." #GOPDebate",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 1367531,
+          "id_str": "1367531",
+          "name": "Fox News",
+          "screen_name": "FoxNews",
+          "location": "U.S.A.",
+          "description": "America’s Strongest Primetime Lineup Anywhere! Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos.",
+          "url": "http://t.co/ZYG58XZtAC",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/ZYG58XZtAC",
+                  "expanded_url": "http://www.foxnews.com",
+                  "display_url": "foxnews.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 8406518,
+          "friends_count": 395,
+          "listed_count": 50590,
+          "created_at": "Sat Mar 17 19:01:26 +0000 2007",
+          "favourites_count": 1,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 237577,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "0E2331",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1367531/1438615348",
+          "profile_link_color": "183A52",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "F4F4F4",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 33,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "DonaldTrump",
+              "indices":  [
+                0,
+                12
+              ]
+            },
+             {
+              "text": "GOPDebate",
+              "indices":  [
+                128,
+                138
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              13,
+              25
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              139,
+              140
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "FoxNews",
+            "name": "Fox News",
+            "id": 1367531,
+            "id_str": "1367531",
+            "indices":  [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:27 +0000 2016",
+      "id": 705575100305829900,
+      "id_str": "705575100305829891",
+      "text": "RT @peddoc63: Remember #TedCruz ran against Crony Capitalism in Iowa while #DonaldTrump wants to expand it! #GOPDebate",
+      "source": "<a href="http://twitter.com/#!/download/ipad" rel="nofollow">Twitter for iPad</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 20958510,
+        "id_str": "20958510",
+        "name": "Katy",
+        "screen_name": "KatyinIndy",
+        "location": "USA",
+        "description": "The heart of the wise inclines to the right, the heart of the fool to the left. --Solomon, Ecclesiastes 10:2",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 144537,
+        "friends_count": 136644,
+        "listed_count": 2662,
+        "created_at": "Mon Feb 16 03:08:33 +0000 2009",
+        "favourites_count": 574,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 230669,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/147618847/twilk_background_4c8bff1a0dd7c.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/147618847/twilk_background_4c8bff1a0dd7c.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/694229926589796352/anSBEBrH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/694229926589796352/anSBEBrH_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20958510/1456861994",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 01:58:16 +0000 2016",
+        "id": 705573042374774800,
+        "id_str": "705573042374774784",
+        "text": "Remember #TedCruz ran against Crony Capitalism in Iowa while #DonaldTrump wants to expand it! #GOPDebate",
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 1379288282,
+          "id_str": "1379288282",
+          "name": "Feisty☀️Floridian",
+          "screen_name": "peddoc63",
+          "location": "",
+          "description": "Doctor & daughter of legal immigrants living American Dream! Followed by: Sheriff Clarke, Allen West, James Woods, Cruz, Hannity, Bolling, Pavlich, Larry Elder",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 106758,
+          "friends_count": 27934,
+          "listed_count": 1097,
+          "created_at": "Thu Apr 25 11:50:33 +0000 2013",
+          "favourites_count": 227290,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 70326,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/703998115947352064/iIhkTFcn_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/703998115947352064/iIhkTFcn_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1379288282/1456670925",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 24,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "TedCruz",
+              "indices":  [
+                9,
+                17
+              ]
+            },
+             {
+              "text": "DonaldTrump",
+              "indices":  [
+                61,
+                73
+              ]
+            },
+             {
+              "text": "GOPDebate",
+              "indices":  [
+                94,
+                104
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "TedCruz",
+            "indices":  [
+              23,
+              31
+            ]
+          },
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              75,
+              87
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              108,
+              118
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "peddoc63",
+            "name": "Feisty☀️Floridian",
+            "id": 1379288282,
+            "id_str": "1379288282",
+            "indices":  [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:27 +0000 2016",
+      "id": 705575098410004500,
+      "id_str": "705575098410004485",
+      "text": "RT @FoxNews: #DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up.…",
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 132528376,
+        "id_str": "132528376",
+        "name": "Michelle Renee Semak",
+        "screen_name": "Mikasajean",
+        "location": "South Bend, Indiana",
+        "description": "I Am A Genuine Person! Animals, Children & Elderly Are Innocent! Never Trust Man 100% The World Has Gone Haywire! Get Strong, Get God, Fight 4 America, Love",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 170,
+        "friends_count": 481,
+        "listed_count": 3,
+        "created_at": "Tue Apr 13 13:54:48 +0000 2010",
+        "favourites_count": 882,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 856,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/705153323687682048/4QhIq54L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/705153323687682048/4QhIq54L_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/132528376/1453315672",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:06:12 +0000 2016",
+        "id": 705575036636287000,
+        "id_str": "705575036636286976",
+        "text": "#DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up." #GOPDebate",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 1367531,
+          "id_str": "1367531",
+          "name": "Fox News",
+          "screen_name": "FoxNews",
+          "location": "U.S.A.",
+          "description": "America’s Strongest Primetime Lineup Anywhere! Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos.",
+          "url": "http://t.co/ZYG58XZtAC",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/ZYG58XZtAC",
+                  "expanded_url": "http://www.foxnews.com",
+                  "display_url": "foxnews.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 8406518,
+          "friends_count": 395,
+          "listed_count": 50590,
+          "created_at": "Sat Mar 17 19:01:26 +0000 2007",
+          "favourites_count": 1,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 237577,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "0E2331",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1367531/1438615348",
+          "profile_link_color": "183A52",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "F4F4F4",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 33,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "DonaldTrump",
+              "indices":  [
+                0,
+                12
+              ]
+            },
+             {
+              "text": "GOPDebate",
+              "indices":  [
+                128,
+                138
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              13,
+              25
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              139,
+              140
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "FoxNews",
+            "name": "Fox News",
+            "id": 1367531,
+            "id_str": "1367531",
+            "indices":  [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:24 +0000 2016",
+      "id": 705575089396457500,
+      "id_str": "705575089396457473",
+      "text": "RT @FoxNews: #DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up.…",
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 2469501559,
+        "id_str": "2469501559",
+        "name": "EKA PROPERTIES",
+        "screen_name": "EKAPROPERTIES",
+        "location": "Dubai, United Arab Emirates",
+        "description": "Dubai's fastest growing Investment Properties Specialist",
+        "url": "http://t.co/OUiIHooZFQ",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/OUiIHooZFQ",
+                "expanded_url": "http://www.eka.ae",
+                "display_url": "eka.ae",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 258,
+        "friends_count": 115,
+        "listed_count": 153,
+        "created_at": "Tue Apr 29 15:38:59 +0000 2014",
+        "favourites_count": 148,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16181,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667271747985661952/T8N4HJVB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667271747985661952/T8N4HJVB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2469501559/1447925815",
+        "profile_link_color": "96B539",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:06:12 +0000 2016",
+        "id": 705575036636287000,
+        "id_str": "705575036636286976",
+        "text": "#DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up." #GOPDebate",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 1367531,
+          "id_str": "1367531",
+          "name": "Fox News",
+          "screen_name": "FoxNews",
+          "location": "U.S.A.",
+          "description": "America’s Strongest Primetime Lineup Anywhere! Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos.",
+          "url": "http://t.co/ZYG58XZtAC",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/ZYG58XZtAC",
+                  "expanded_url": "http://www.foxnews.com",
+                  "display_url": "foxnews.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 8406518,
+          "friends_count": 395,
+          "listed_count": 50590,
+          "created_at": "Sat Mar 17 19:01:26 +0000 2007",
+          "favourites_count": 1,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 237577,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "0E2331",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1367531/1438615348",
+          "profile_link_color": "183A52",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "F4F4F4",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 33,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "DonaldTrump",
+              "indices":  [
+                0,
+                12
+              ]
+            },
+             {
+              "text": "GOPDebate",
+              "indices":  [
+                128,
+                138
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              13,
+              25
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              139,
+              140
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "FoxNews",
+            "name": "Fox News",
+            "id": 1367531,
+            "id_str": "1367531",
+            "indices":  [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:24 +0000 2016",
+      "id": 705575085894193200,
+      "id_str": "705575085894193153",
+      "text": "RT @FoxNews: #DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up.…",
+      "source": "<a href="http://tapbots.com/tweetbot" rel="nofollow">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 110731038,
+        "id_str": "110731038",
+        "name": "N.",
+        "screen_name": "DCkindagal",
+        "location": "Virginia",
+        "description": "Treat every week like it's sharkweek - Tracy Jordan (30 rock)",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 127,
+        "friends_count": 800,
+        "listed_count": 7,
+        "created_at": "Tue Feb 02 15:41:32 +0000 2010",
+        "favourites_count": 425,
+        "utc_offset": -10800,
+        "time_zone": "Greenland",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6479,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/678197122030829568/C7tUY9AR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/678197122030829568/C7tUY9AR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/110731038/1404858463",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:06:12 +0000 2016",
+        "id": 705575036636287000,
+        "id_str": "705575036636286976",
+        "text": "#DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up." #GOPDebate",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 1367531,
+          "id_str": "1367531",
+          "name": "Fox News",
+          "screen_name": "FoxNews",
+          "location": "U.S.A.",
+          "description": "America’s Strongest Primetime Lineup Anywhere! Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos.",
+          "url": "http://t.co/ZYG58XZtAC",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/ZYG58XZtAC",
+                  "expanded_url": "http://www.foxnews.com",
+                  "display_url": "foxnews.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 8406518,
+          "friends_count": 395,
+          "listed_count": 50590,
+          "created_at": "Sat Mar 17 19:01:26 +0000 2007",
+          "favourites_count": 1,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 237577,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "0E2331",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1367531/1438615348",
+          "profile_link_color": "183A52",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "F4F4F4",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 33,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "DonaldTrump",
+              "indices":  [
+                0,
+                12
+              ]
+            },
+             {
+              "text": "GOPDebate",
+              "indices":  [
+                128,
+                138
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              13,
+              25
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              139,
+              140
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "FoxNews",
+            "name": "Fox News",
+            "id": 1367531,
+            "id_str": "1367531",
+            "indices":  [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:23 +0000 2016",
+      "id": 705575085072105500,
+      "id_str": "705575085072105472",
+      "text": "RT @_Ali__B: #DonaldTrump: I totally disavow the KKK. \nSad that a leading presidential candidate has to even say this is 2016 #GOPDebate",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 381791736,
+        "id_str": "381791736",
+        "name": "Omar Alhasan",
+        "screen_name": "oalhasan",
+        "location": "",
+        "description": "If you find yourself to be in difficulty or distress, show kindness to others, and you'll be the first to find solace and comfort.",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 254,
+        "friends_count": 237,
+        "listed_count": 4,
+        "created_at": "Wed Sep 28 23:18:26 +0000 2011",
+        "favourites_count": 132,
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 31773,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/691477144350937088/79vgBJWf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/691477144350937088/79vgBJWf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/381791736/1453691722",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:05:34 +0000 2016",
+        "id": 705574876204175400,
+        "id_str": "705574876204175360",
+        "text": "#DonaldTrump: I totally disavow the KKK. \nSad that a leading presidential candidate has to even say this is 2016 #GOPDebate",
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 722841380,
+          "id_str": "722841380",
+          "name": "Ali B.",
+          "screen_name": "_Ali__B",
+          "location": "Detroit, MI ",
+          "description": "Writer| Made in #Detroit| I tweet about MidEast/US politics & sports",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 1469,
+          "friends_count": 1359,
+          "listed_count": 21,
+          "created_at": "Sat Jul 28 21:20:45 +0000 2012",
+          "favourites_count": 9562,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 12937,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/700345742632820736/9PHTckVh_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/700345742632820736/9PHTckVh_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/722841380/1441407717",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 3,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "DonaldTrump",
+              "indices":  [
+                0,
+                12
+              ]
+            },
+             {
+              "text": "GOPDebate",
+              "indices":  [
+                113,
+                123
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              13,
+              25
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              126,
+              136
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "_Ali__B",
+            "name": "Ali B.",
+            "id": 722841380,
+            "id_str": "722841380",
+            "indices":  [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:23 +0000 2016",
+      "id": 705575082496811000,
+      "id_str": "705575082496811008",
+      "text": "RT @VerminSupreme: Apparently It's On... #LIBERTY #DonaldTrump #TimeTravel https://t.co/3z0uWEjuaZ",
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 818511564,
+        "id_str": "818511564",
+        "name": "Zefire Zeeksi",
+        "screen_name": "Sjldog",
+        "location": "Missouri, USA",
+        "description": "",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 80,
+        "friends_count": 111,
+        "listed_count": 7,
+        "created_at": "Wed Sep 12 00:45:20 +0000 2012",
+        "favourites_count": 631,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1634,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/660318550196883456/_w5if8Hq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/660318550196883456/_w5if8Hq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818511564/1446266983",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 01:39:49 +0000 2016",
+        "id": 705568397376004100,
+        "id_str": "705568397376004096",
+        "text": "Apparently It's On... #LIBERTY #DonaldTrump #TimeTravel https://t.co/3z0uWEjuaZ",
+        "source": "<a href="http://www.facebook.com/twitter" rel="nofollow">Facebook</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 394746333,
+          "id_str": "394746333",
+          "name": "Vermin Supreme (TM)",
+          "screen_name": "VerminSupreme",
+          "location": "OFFICIAL",
+          "description": "The One , The Only. \r\nGenuine and bone fide,\r\nNEITHER impostor, NOR impersonator.\r\nAccept NO substitute.",
+          "url": "http://t.co/9a2nL1yORq",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/9a2nL1yORq",
+                  "expanded_url": "http://verminsupreme2016.wordpress.com/about/",
+                  "display_url": "verminsupreme2016.wordpress.com/about/",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 10161,
+          "friends_count": 49,
+          "listed_count": 114,
+          "created_at": "Thu Oct 20 15:23:16 +0000 2011",
+          "favourites_count": 806,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 21267,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1772481590/progress_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1772481590/progress_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/394746333/1427231719",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 4,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "LIBERTY",
+              "indices":  [
+                23,
+                31
+              ]
+            },
+             {
+              "text": "DonaldTrump",
+              "indices":  [
+                32,
+                44
+              ]
+            },
+             {
+              "text": "TimeTravel",
+              "indices":  [
+                45,
+                56
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/3z0uWEjuaZ",
+              "expanded_url": "http://fb.me/2xE3WTKJn",
+              "display_url": "fb.me/2xE3WTKJn",
+              "indices":  [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "LIBERTY",
+            "indices":  [
+              42,
+              50
+            ]
+          },
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              51,
+              63
+            ]
+          },
+           {
+            "text": "TimeTravel",
+            "indices":  [
+              64,
+              75
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "VerminSupreme",
+            "name": "Vermin Supreme (TM)",
+            "id": 394746333,
+            "id_str": "394746333",
+            "indices":  [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/3z0uWEjuaZ",
+            "expanded_url": "http://fb.me/2xE3WTKJn",
+            "display_url": "fb.me/2xE3WTKJn",
+            "indices":  [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:23 +0000 2016",
+      "id": 705575082354208800,
+      "id_str": "705575082354208768",
+      "text": "RT @Letti4U: #DonaldTrump will run the country via his twitter account. #GOPDebate #FOXDebate",
+      "source": "<a href="http://www.twitter.com" rel="nofollow">Twitter for BlackBerry</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 35346950,
+        "id_str": "35346950",
+        "name": "Semaj",
+        "screen_name": "moralesdc",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 1534,
+        "friends_count": 2067,
+        "listed_count": 80,
+        "created_at": "Sat Apr 25 23:59:20 +0000 2009",
+        "favourites_count": 6759,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 56915,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/463849914946961410/Bqy7vJCM_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/463849914946961410/Bqy7vJCM_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35346950/1454378784",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:05:51 +0000 2016",
+        "id": 705574948094476300,
+        "id_str": "705574948094476288",
+        "text": "#DonaldTrump will run the country via his twitter account. #GOPDebate #FOXDebate",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 334306198,
+          "id_str": "334306198",
+          "name": "Letti",
+          "screen_name": "Letti4U",
+          "location": "",
+          "description": "",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 2280,
+          "friends_count": 257,
+          "listed_count": 49,
+          "created_at": "Tue Jul 12 21:59:22 +0000 2011",
+          "favourites_count": 1279,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 1614,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/705564398245515264/MBBvyYyH_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/705564398245515264/MBBvyYyH_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/334306198/1447528739",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place":  {
+          "id": "01a9a39529b27f36",
+          "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+          "place_type": "city",
+          "name": "Manhattan",
+          "full_name": "Manhattan, NY",
+          "country_code": "US",
+          "country": "United States",
+          "contained_within":  [],
+          "bounding_box":  {
+            "type": "Polygon",
+            "coordinates":  [
+               [
+                 [
+                  -74.026675,
+                  40.683935
+                ],
+                 [
+                  -73.910408,
+                  40.683935
+                ],
+                 [
+                  -73.910408,
+                  40.877483
+                ],
+                 [
+                  -74.026675,
+                  40.877483
+                ]
+              ]
+            ]
+          },
+          "attributes":  {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "DonaldTrump",
+              "indices":  [
+                0,
+                12
+              ]
+            },
+             {
+              "text": "GOPDebate",
+              "indices":  [
+                59,
+                69
+              ]
+            },
+             {
+              "text": "FOXDebate",
+              "indices":  [
+                70,
+                80
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              13,
+              25
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              72,
+              82
+            ]
+          },
+           {
+            "text": "FOXDebate",
+            "indices":  [
+              83,
+              93
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "Letti4U",
+            "name": "Letti",
+            "id": 334306198,
+            "id_str": "334306198",
+            "indices":  [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:21 +0000 2016",
+      "id": 705575076192587800,
+      "id_str": "705575076192587776",
+      "text": "RT @FoxNews: #DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up.…",
+      "source": "<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 73533261,
+        "id_str": "73533261",
+        "name": "Rasmussen News",
+        "screen_name": "RasmussenNews",
+        "location": "Fort Worth, TX/Memphis, TN",
+        "description": "#internationalnews. #StandwithIsrael! United With #Israel. I'm pro-life. I don't support gay marriage. #AlwaysTrump #MakeAmericaGreatAgain",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 713,
+        "friends_count": 56,
+        "listed_count": 67,
+        "created_at": "Sat Sep 12 01:03:35 +0000 2009",
+        "favourites_count": 2135,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 63568,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/704122208843493377/YYRVK4BB.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/704122208843493377/YYRVK4BB.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/704021194048012288/4kqG-O5o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/704021194048012288/4kqG-O5o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73533261/1456710935",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:06:12 +0000 2016",
+        "id": 705575036636287000,
+        "id_str": "705575036636286976",
+        "text": "#DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up." #GOPDebate",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 1367531,
+          "id_str": "1367531",
+          "name": "Fox News",
+          "screen_name": "FoxNews",
+          "location": "U.S.A.",
+          "description": "America’s Strongest Primetime Lineup Anywhere! Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos.",
+          "url": "http://t.co/ZYG58XZtAC",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/ZYG58XZtAC",
+                  "expanded_url": "http://www.foxnews.com",
+                  "display_url": "foxnews.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 8406518,
+          "friends_count": 395,
+          "listed_count": 50590,
+          "created_at": "Sat Mar 17 19:01:26 +0000 2007",
+          "favourites_count": 1,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 237577,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "0E2331",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1367531/1438615348",
+          "profile_link_color": "183A52",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "F4F4F4",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 33,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "DonaldTrump",
+              "indices":  [
+                0,
+                12
+              ]
+            },
+             {
+              "text": "GOPDebate",
+              "indices":  [
+                128,
+                138
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              13,
+              25
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              139,
+              140
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "FoxNews",
+            "name": "Fox News",
+            "id": 1367531,
+            "id_str": "1367531",
+            "indices":  [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:21 +0000 2016",
+      "id": 705575073655160800,
+      "id_str": "705575073655160838",
+      "text": "RT @FoxNews: #DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up.…",
+      "source": "<a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12" rel="nofollow">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 106584245,
+        "id_str": "106584245",
+        "name": "Tom Milana",
+        "screen_name": "cyrus915",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 29,
+        "friends_count": 249,
+        "listed_count": 1,
+        "created_at": "Wed Jan 20 01:19:35 +0000 2010",
+        "favourites_count": 56,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 203,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1751070633/craps_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1751070633/craps_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:06:12 +0000 2016",
+        "id": 705575036636287000,
+        "id_str": "705575036636286976",
+        "text": "#DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up." #GOPDebate",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 1367531,
+          "id_str": "1367531",
+          "name": "Fox News",
+          "screen_name": "FoxNews",
+          "location": "U.S.A.",
+          "description": "America’s Strongest Primetime Lineup Anywhere! Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos.",
+          "url": "http://t.co/ZYG58XZtAC",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/ZYG58XZtAC",
+                  "expanded_url": "http://www.foxnews.com",
+                  "display_url": "foxnews.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 8406518,
+          "friends_count": 395,
+          "listed_count": 50590,
+          "created_at": "Sat Mar 17 19:01:26 +0000 2007",
+          "favourites_count": 1,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 237577,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "0E2331",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1367531/1438615348",
+          "profile_link_color": "183A52",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "F4F4F4",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 33,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "DonaldTrump",
+              "indices":  [
+                0,
+                12
+              ]
+            },
+             {
+              "text": "GOPDebate",
+              "indices":  [
+                128,
+                138
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              13,
+              25
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              139,
+              140
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "FoxNews",
+            "name": "Fox News",
+            "id": 1367531,
+            "id_str": "1367531",
+            "indices":  [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:20 +0000 2016",
+      "id": 705575072942129200,
+      "id_str": "705575072942129152",
+      "text": "That this is even a real question but sadly, it is. #DonaldTrump https://t.co/L2EzHIXtId",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 66786179,
+        "id_str": "66786179",
+        "name": "Laurie B.",
+        "screen_name": "Drtysxyministry",
+        "location": "Lexington, Kentucky",
+        "description": "Writer, Priest, Horse-lover, Southern woman. Fan of faith, humor, grace, & good bourbon. Tweets are my opinions, not parish/diocese.",
+        "url": "http://t.co/0QoQcXy4lx",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/0QoQcXy4lx",
+                "expanded_url": "http://dirtysexyministry.com",
+                "display_url": "dirtysexyministry.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 3367,
+        "friends_count": 1862,
+        "listed_count": 110,
+        "created_at": "Tue Aug 18 20:11:12 +0000 2009",
+        "favourites_count": 10019,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 32800,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2882150209/175d484709455b32790d01ce6cef5c4f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2882150209/175d484709455b32790d01ce6cef5c4f_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/66786179/1379375000",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 705574670486085600,
+      "quoted_status_id_str": "705574670486085633",
+      "quoted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:04:45 +0000 2016",
+        "id": 705574670486085600,
+        "id_str": "705574670486085633",
+        "text": ""What are you views on the Ku Klux Klan?" 2016",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 17757642,
+          "id_str": "17757642",
+          "name": "Sarah Posner",
+          "screen_name": "sarahposner",
+          "location": "washington, dc",
+          "description": "investigative journalist and author, religion nerd, corgi lover. https://t.co/6CBf2zjsnt",
+          "url": "https://t.co/ClIQrgemwU",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/ClIQrgemwU",
+                  "expanded_url": "http://sarahposner.com",
+                  "display_url": "sarahposner.com",
+                  "indices":  [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/6CBf2zjsnt",
+                  "expanded_url": "https://www.facebook.com/sarahposnermedia",
+                  "display_url": "facebook.com/sarahposnermed…",
+                  "indices":  [
+                    65,
+                    88
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 8233,
+          "friends_count": 918,
+          "listed_count": 681,
+          "created_at": "Sun Nov 30 17:09:29 +0000 2008",
+          "favourites_count": 1335,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 28856,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "EBEBEB",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6304136/pic.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6304136/pic.jpg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/685876019014799361/oB0AaLIo_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/685876019014799361/oB0AaLIo_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/17757642/1403097071",
+          "profile_link_color": "990000",
+          "profile_sidebar_border_color": "DFDFDF",
+          "profile_sidebar_fill_color": "F3F3F3",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 3,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              52,
+              64
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/L2EzHIXtId",
+            "expanded_url": "https://twitter.com/sarahposner/status/705574670486085633",
+            "display_url": "twitter.com/sarahposner/st…",
+            "indices":  [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 02:06:19 +0000 2016",
+      "id": 705575066596200400,
+      "id_str": "705575066596200448",
+      "text": "RT @FoxNews: #DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up.…",
+      "source": "<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 15750898,
+        "id_str": "15750898",
+        "name": "FOX 13 Tampa Bay",
+        "screen_name": "FOX13News",
+        "location": "Tampa, FL",
+        "description": "Bringing you the important stuff like breaking news & weather alerts. But also plenty of fun stuff, like sports updates and all those 'only-in-Florida' stories.",
+        "url": "http://t.co/RtP9QYEZCq",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/RtP9QYEZCq",
+                "expanded_url": "http://www.FOX13news.com",
+                "display_url": "FOX13news.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 116058,
+        "friends_count": 4831,
+        "listed_count": 1278,
+        "created_at": "Wed Aug 06 15:12:10 +0000 2008",
+        "favourites_count": 2174,
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 117291,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "00064A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/288488489/twitter1.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/288488489/twitter1.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/636612091340804097/Movi3am__normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/636612091340804097/Movi3am__normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15750898/1450368923",
+        "profile_link_color": "0B2F8A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E8EEF0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Mar 04 02:06:12 +0000 2016",
+        "id": 705575036636287000,
+        "id_str": "705575036636286976",
+        "text": "#DonaldTrump: "When I do something on Twitter everybody picks it up...but when I [disavowed the KKK], nobody ever picks it up." #GOPDebate",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 1367531,
+          "id_str": "1367531",
+          "name": "Fox News",
+          "screen_name": "FoxNews",
+          "location": "U.S.A.",
+          "description": "America’s Strongest Primetime Lineup Anywhere! Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos.",
+          "url": "http://t.co/ZYG58XZtAC",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/ZYG58XZtAC",
+                  "expanded_url": "http://www.foxnews.com",
+                  "display_url": "foxnews.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 8406518,
+          "friends_count": 395,
+          "listed_count": 50590,
+          "created_at": "Sat Mar 17 19:01:26 +0000 2007",
+          "favourites_count": 1,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 237577,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "0E2331",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1367531/1438615348",
+          "profile_link_color": "183A52",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "F4F4F4",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 33,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "DonaldTrump",
+              "indices":  [
+                0,
+                12
+              ]
+            },
+             {
+              "text": "GOPDebate",
+              "indices":  [
+                128,
+                138
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "DonaldTrump",
+            "indices":  [
+              13,
+              25
+            ]
+          },
+           {
+            "text": "GOPDebate",
+            "indices":  [
+              139,
+              140
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "FoxNews",
+            "name": "Fox News",
+            "id": 1367531,
+            "id_str": "1367531",
+            "indices":  [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata":  {
+    "completed_in": 0.04,
+    "max_id": 705575108493099000,
+    "max_id_str": "705575108493099008",
+    "next_results": "?max_id=705575066596200447&q=%23donaldtrump&include_entities=1",
+    "query": "%23donaldtrump",
+    "refresh_url": "?since_id=705575108493099008&q=%23donaldtrump&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+

@@ -1,0 +1,1884 @@
+
+Response Snapshot
+HTTP/1.1 200 OK
+x-frame-options:
+SAMEORIGIN
+x-rate-limit-remaining:
+178
+last-modified:
+Fri, 04 Mar 2016 02:06:04 GMT
+status:
+200 OK
+Content-Length:
+45865
+x-response-time:
+96
+Connection:
+keep-alive
+x-transaction:
+9848d9cd901bbe9c
+Server:
+tsa_b
+pragma:
+no-cache
+cache-control:
+no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+f1dbecc82ff8d20daeed1abf1b0b105d
+x-xss-protection:
+1; mode=block
+x-content-type-options:
+nosniff
+x-rate-limit-limit:
+180
+expires:
+Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+Fri, 04 Mar 2016 02:06:04 GMT
+set-cookie:
+lang=en; Path=/
+set-cookie:
+guest_id=v1%3A145705716453308007; Domain=.twitter.com; Path=/; Expires=Sun, 04-Mar-2018 02:06:04 UTC
+x-rate-limit-reset:
+1457057866
+content-disposition:
+attachment; filename=json.json
+x-twitter-response-tags:
+BouncerCompliant
+strict-transport-security:
+max-age=631138519
+x-access-level:
+read-write-directmessages
+Content-Type:
+application/json;charset=utf-8
+
+{
+  "statuses":  [
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:26 +0000 2016",
+      "id": 705572831900385300,
+      "id_str": "705572831900385280",
+      "text": "Protesters in Kentucky claim they were assaulted at Trump rally #UsElections https://t.co/kTnG25oX7T",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              64,
+              76
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/kTnG25oX7T",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/protesters-in-kentucky-claim-they-were-assaulted-at-trump-rally/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:24 +0000 2016",
+      "id": 705572822333136900,
+      "id_str": "705572822333136896",
+      "text": "Republican foreign policy veterans rebuke Trump worldview #UsElections https://t.co/9HDQIYktsa",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              58,
+              70
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/9HDQIYktsa",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/republican-foreign-policy-veterans-rebuke-trump-worldview/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              71,
+              94
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:23 +0000 2016",
+      "id": 705572819921408000,
+      "id_str": "705572819921408000",
+      "text": "New York judge weighs Cruz ballot challenge on birthplace issue #UsElections https://t.co/Yl3bKO5S0F",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              64,
+              76
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/Yl3bKO5S0F",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/new-york-judge-weighs-cruz-ballot-challenge-on-birthplace-issue/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:21 +0000 2016",
+      "id": 705572810643611600,
+      "id_str": "705572810643611648",
+      "text": "Romney aims to stop Trump at Republican convention: CNN #UsElections https://t.co/LRZjPyvFPd",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              56,
+              68
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/LRZjPyvFPd",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/romney-aims-to-stop-trump-at-republican-convention-cnn/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:18 +0000 2016",
+      "id": 705572798580793300,
+      "id_str": "705572798580793345",
+      "text": "Trump to fundraise for campaign if he wins Republican nomination: CNN #UsElections https://t.co/04kjQgIEve",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              70,
+              82
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/04kjQgIEve",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/trump-to-fundraise-for-campaign-if-he-wins-republican-nomination-cnn/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:14 +0000 2016",
+      "id": 705572779479994400,
+      "id_str": "705572779479994370",
+      "text": "Clinton ex-employee tells FBI no sign email server was hacked: NYT #UsElections https://t.co/pj2xmLDUCv",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              67,
+              79
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/pj2xmLDUCv",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/clinton-ex-employee-tells-fbi-no-sign-email-server-was-hacked-nyt/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:13 +0000 2016",
+      "id": 705572776942379000,
+      "id_str": "705572776942379008",
+      "text": "Text: Mitt Romney speech slamming Donald Trump #UsElections https://t.co/kWG3GaErak",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              47,
+              59
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/kWG3GaErak",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/text-mitt-romney-speech-slamming-donald-trump/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              60,
+              83
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:12 +0000 2016",
+      "id": 705572772169252900,
+      "id_str": "705572772169252864",
+      "text": "No sign of end to fight on U.S. ambassador to Mexico, Rubio holds firm #UsElections https://t.co/4yGqT5hYMY",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              71,
+              83
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/4yGqT5hYMY",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/no-sign-of-end-to-fight-on-us-ambassador-to-mexico-rubio-holds-firm/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:11 +0000 2016",
+      "id": 705572769837269000,
+      "id_str": "705572769837268992",
+      "text": "Romney's anti-Trump speech ignites social media debate #UsElections https://t.co/n8wIgznLaM",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              55,
+              67
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/n8wIgznLaM",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/romneys-anti-trump-speech-ignites-social-media-debate/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:11 +0000 2016",
+      "id": 705572767463243800,
+      "id_str": "705572767463243780",
+      "text": "Republican governors mostly steer clear of presidential race #UsElections https://t.co/H3MENEnfcD",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              61,
+              73
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/H3MENEnfcD",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/republican-governors-mostly-steer-clear-of-presidential-race/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:10 +0000 2016",
+      "id": 705572765017968600,
+      "id_str": "705572765017968641",
+      "text": "House Speaker Ryan warns of 'rhetoric,' not of Trump #UsElections https://t.co/l444f3Fesl",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              53,
+              65
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/l444f3Fesl",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/house-speaker-ryan-warns-of-rhetoric-not-of-trump/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:08 +0000 2016",
+      "id": 705572756054794200,
+      "id_str": "705572756054794241",
+      "text": "New Jersey Governor Christie says he urged Trump not to leave Republican Party #UsElections https://t.co/Bt3AeqJnNT",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              79,
+              91
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/Bt3AeqJnNT",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/new-jersey-governor-christie-says-he-urged-trump-not-to-leave-republican-party/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:05 +0000 2016",
+      "id": 705572743790641200,
+      "id_str": "705572743790641153",
+      "text": "Trump, anti-Trump forces start Florida ad battle #UsElections https://t.co/aG9XnZc6Ml",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              49,
+              61
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/aG9XnZc6Ml",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/trump-anti-trump-forces-start-florida-ad-battle/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:05 +0000 2016",
+      "id": 705572741345366000,
+      "id_str": "705572741345366020",
+      "text": "Florida Gov. Scott not endorsing 2016 Republican presidential candidate #UsElections https://t.co/I3nscIOMb7",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              72,
+              84
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/I3nscIOMb7",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/florida-gov-scott-not-endorsing-2016-republican-presidential-candidate/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Mar 04 01:57:03 +0000 2016",
+      "id": 705572733111951400,
+      "id_str": "705572733111951360",
+      "text": "Security logs of Clinton email server show no evidence of foreign hacking: NYT #UsElections https://t.co/CcCVwlKnMR",
+      "source": "<a href="http://www.forcetweet.nl" rel="nofollow">ForceTweet</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 514281662,
+        "id_str": "514281662",
+        "name": "News_US_Elections",
+        "screen_name": "NewsUSElections",
+        "location": "United States",
+        "description": "Stay on top of the latest Election news. BStay up to date in one click. check http://t.co/TdTyguTYlr",
+        "url": "http://t.co/TdTyguTYlr",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/TdTyguTYlr",
+                "expanded_url": "http://news.newslocker.com/us_elections_2012/",
+                "display_url": "news.newslocker.com/us_elections_2…",
+                "indices":  [
+                  78,
+                  100
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 1988,
+        "listed_count": 43,
+        "created_at": "Sun Mar 04 12:22:38 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39182,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440986153/newslocker_logo_groot_90_graden.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871898121/News_locker_icon_normal.jpg",
+        "profile_link_color": "FCC100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "UsElections",
+            "indices":  [
+              79,
+              91
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/CcCVwlKnMR",
+            "expanded_url": "http://www.newslocker.com/en-us/news/us_elections/security-logs-of-clinton-email-server-show-no-evidence-of-foreign-hacking-nyt/",
+            "display_url": "newslocker.com/en-us/news/us_…",
+            "indices":  [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata":  {
+    "completed_in": 0.072,
+    "max_id": 705572831900385300,
+    "max_id_str": "705572831900385280",
+    "next_results": "?max_id=705572733111951359&q=%23uselections&include_entities=1",
+    "query": "%23uselections",
+    "refresh_url": "?since_id=705572831900385280&q=%23uselections&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
