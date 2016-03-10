@@ -8,6 +8,7 @@ import org.apache.spark.{SparkContext, SparkConf}
 import org.apache.log4j.Logger
 import org.apache.log4j.Level
 
+
 import scala.io.Source
 
 /**
@@ -132,12 +133,16 @@ object SparkMovieRecommendation {
       .take(5)
 
     var i = 1
-    println("Song genres recommended for you:")
+    val str = new StringBuilder("")
+    str.append("Song genres recommended for you:\n")
+    //println("Song genres recommended for you:")
     recommendations.foreach { r =>
-      println("%2d".format(i) + ": " + movies(r.product))
+      str.append("%2d".format(i) + ": " + movies(r.product) +"\n")
+      //println("%2d".format(i) + ": " + movies(r.product))
       i += 1
     }
-
+println(str.toString())
+    val status = SocketClient.sendHashTagsToDevice(str.toString())
     // clean up
     sc.stop()
   }

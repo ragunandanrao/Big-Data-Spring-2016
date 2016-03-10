@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparkmachinelearnin.iml" filepath="$PROJECT_DIR$/.idea/modules/sparkmachinelearnin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparkmachinelearnin-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sparkmachinelearnin-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/musicrecommendation.iml" filepath="$PROJECT_DIR$/.idea/modules/musicrecommendation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/musicrecommendation-build.iml" filepath="$PROJECT_DIR$/.idea/modules/musicrecommendation-build.iml" />
     </modules>
   </component>
 </project>
