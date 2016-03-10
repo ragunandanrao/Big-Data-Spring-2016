@@ -1,0 +1,1 @@
+This folder contains source code and documentation for the task completed as part of Lab 7. The task here was to perform sentiment analysis on Twitter data. Also to perform recommendation based on Twitter data.
