@@ -1,0 +1,1 @@
+This folder contains the documentation and source for the task completed as part of Lab 9 for the course Big Data Analytics and Apps. The task was to create an image classification and recommendation of image categories. 
