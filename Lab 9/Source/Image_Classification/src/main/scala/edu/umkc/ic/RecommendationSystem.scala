@@ -22,7 +22,7 @@ object RecommendationSystem {
       userMapping += (users(i - 1) -> i)
     }
     val USERID = sc.broadcast(userMapping)
-    val tags = List("rice", "tempura", "toast", "bibimap", "sushi", "spaghetti", "sausage", "oden", "omelet", "jiaozi")
+    val tags = List("Music","Movie","Food","USElections","Sports")
     var tagId: Map[Int, String] = Map()
     var count: Int = 1
 
@@ -47,7 +47,6 @@ object RecommendationSystem {
 
       val sentimentAnalyzer: SentimentAnalyzer = new SentimentAnalyzer
       val tweetWithSentiment: TweetWithSentiment = sentimentAnalyzer.findSentiment(caption)
-      //User id, Movie Id, Rating
       println(USERID.value(username(0)))
       println(d(3).toInt)
       println(tweetWithSentiment.getRating)
@@ -64,7 +63,7 @@ object RecommendationSystem {
     val recommendations = model.predict(myRatedMovieIds.map((1, _))).collect()
 
     var i = 1
-    println("Movies recommended for you:")
+    println("We recommend these category of images to you :")
     recommendations.foreach { r =>
       println(r)
       println("%2d".format(i) + ": " + tagId(r.product))

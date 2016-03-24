@@ -5,7 +5,7 @@ package edu.umkc.ic
   */
 object IPSettings {
 
-  val PATH = "instadata3/"
+  val PATH = "DataSource/"
   val INPUT_DIR = PATH + "train"
   val FEATURES_PATH = PATH + "model/features"
 
